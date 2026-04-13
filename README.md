@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Data Analysis](https://img.shields.io/badge/Field-Data_Science-orange)
 
+![BRAND](./src/main.png)
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** exhaustivo sobre el parque automovilístico de Barcelona. El objetivo principal es desgranar la relación entre la densidad de población, el nivel de renta por distrito y la infraestructura de carga actual para determinar la viabilidad de una transición hacia una movilidad sostenible.
