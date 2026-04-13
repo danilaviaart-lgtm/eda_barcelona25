@@ -1,0 +1,434 @@
+Nom_Districte,Nom_Barri,Tipus_Propulsio,Unidades
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2035
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Eléctrica,4084
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasolina,7177
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Hibrido,536
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",No consta,17
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Otros,98
+Ciutat Vella,el Barri Gòtic,Diesel,4158
+Ciutat Vella,el Barri Gòtic,Eléctrica,188
+Ciutat Vella,el Barri Gòtic,Gasolina,5838
+Ciutat Vella,el Barri Gòtic,Hibrido,337
+Ciutat Vella,el Barri Gòtic,No consta,34
+Ciutat Vella,el Barri Gòtic,Otros,167
+Ciutat Vella,el Raval,Diesel,3411
+Ciutat Vella,el Raval,Eléctrica,128
+Ciutat Vella,el Raval,Gasolina,7156
+Ciutat Vella,el Raval,Hibrido,769
+Ciutat Vella,el Raval,No consta,15
+Ciutat Vella,el Raval,Otros,246
+Ciutat Vella,la Barceloneta,Diesel,1553
+Ciutat Vella,la Barceloneta,Eléctrica,2033
+Ciutat Vella,la Barceloneta,Gasolina,5231
+Ciutat Vella,la Barceloneta,Hibrido,345
+Ciutat Vella,la Barceloneta,No consta,3
+Ciutat Vella,la Barceloneta,Otros,95
+Eixample,Sant Antoni,Diesel,3911
+Eixample,Sant Antoni,Eléctrica,182
+Eixample,Sant Antoni,Gasolina,10199
+Eixample,Sant Antoni,Hibrido,944
+Eixample,Sant Antoni,No consta,21
+Eixample,Sant Antoni,Otros,245
+Eixample,el Fort Pienc,Diesel,3771
+Eixample,el Fort Pienc,Eléctrica,147
+Eixample,el Fort Pienc,Gasolina,9163
+Eixample,el Fort Pienc,Hibrido,1059
+Eixample,el Fort Pienc,No consta,17
+Eixample,el Fort Pienc,Otros,164
+Eixample,l'Antiga Esquerra de l'Eixample,Diesel,5241
+Eixample,l'Antiga Esquerra de l'Eixample,Eléctrica,496
+Eixample,l'Antiga Esquerra de l'Eixample,Gasolina,14884
+Eixample,l'Antiga Esquerra de l'Eixample,Hibrido,1552
+Eixample,l'Antiga Esquerra de l'Eixample,No consta,36
+Eixample,l'Antiga Esquerra de l'Eixample,Otros,239
+Eixample,la Dreta de l'Eixample,Diesel,8293
+Eixample,la Dreta de l'Eixample,Eléctrica,705
+Eixample,la Dreta de l'Eixample,Gasolina,17302
+Eixample,la Dreta de l'Eixample,Hibrido,2476
+Eixample,la Dreta de l'Eixample,No consta,56
+Eixample,la Dreta de l'Eixample,Otros,808
+Eixample,la Nova Esquerra de l'Eixample,Diesel,7465
+Eixample,la Nova Esquerra de l'Eixample,Eléctrica,401
+Eixample,la Nova Esquerra de l'Eixample,Gasolina,18240
+Eixample,la Nova Esquerra de l'Eixample,Hibrido,2246
+Eixample,la Nova Esquerra de l'Eixample,No consta,28
+Eixample,la Nova Esquerra de l'Eixample,Otros,293
+Eixample,la Sagrada Família,Diesel,5326
+Eixample,la Sagrada Família,Eléctrica,264
+Eixample,la Sagrada Família,Gasolina,14388
+Eixample,la Sagrada Família,Hibrido,1587
+Eixample,la Sagrada Família,No consta,11
+Eixample,la Sagrada Família,Otros,441
+Gràcia,Vallcarca i els Penitents,Diesel,2031
+Gràcia,Vallcarca i els Penitents,Eléctrica,154
+Gràcia,Vallcarca i els Penitents,Gasolina,6299
+Gràcia,Vallcarca i els Penitents,Hibrido,597
+Gràcia,Vallcarca i els Penitents,No consta,16
+Gràcia,Vallcarca i els Penitents,Otros,83
+Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,3704
+Gràcia,el Camp d'en Grassot i Gràcia Nova,Eléctrica,172
+Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasolina,11116
+Gràcia,el Camp d'en Grassot i Gràcia Nova,Hibrido,1101
+Gràcia,el Camp d'en Grassot i Gràcia Nova,No consta,10
+Gràcia,el Camp d'en Grassot i Gràcia Nova,Otros,173
+Gràcia,el Coll,Diesel,933
+Gràcia,el Coll,Eléctrica,44
+Gràcia,el Coll,Gasolina,2630
+Gràcia,el Coll,Hibrido,200
+Gràcia,el Coll,No consta,3
+Gràcia,el Coll,Otros,34
+Gràcia,la Salut,Diesel,1552
+Gràcia,la Salut,Eléctrica,81
+Gràcia,la Salut,Gasolina,4854
+Gràcia,la Salut,Hibrido,468
+Gràcia,la Salut,No consta,2
+Gràcia,la Salut,Otros,77
+Gràcia,la Vila de Gràcia,Diesel,5305
+Gràcia,la Vila de Gràcia,Eléctrica,334
+Gràcia,la Vila de Gràcia,Gasolina,14609
+Gràcia,la Vila de Gràcia,Hibrido,1247
+Gràcia,la Vila de Gràcia,No consta,29
+Gràcia,la Vila de Gràcia,Otros,266
+Horta-Guinardó,Can Baró,Diesel,1188
+Horta-Guinardó,Can Baró,Eléctrica,37
+Horta-Guinardó,Can Baró,Gasolina,3415
+Horta-Guinardó,Can Baró,Hibrido,253
+Horta-Guinardó,Can Baró,No consta,6
+Horta-Guinardó,Can Baró,Otros,64
+Horta-Guinardó,Horta,Diesel,3450
+Horta-Guinardó,Horta,Eléctrica,77
+Horta-Guinardó,Horta,Gasolina,8606
+Horta-Guinardó,Horta,Hibrido,786
+Horta-Guinardó,Horta,No consta,10
+Horta-Guinardó,Horta,Otros,191
+Horta-Guinardó,Montbau,Diesel,656
+Horta-Guinardó,Montbau,Eléctrica,12
+Horta-Guinardó,Montbau,Gasolina,1545
+Horta-Guinardó,Montbau,Hibrido,149
+Horta-Guinardó,Montbau,No consta,2
+Horta-Guinardó,Montbau,Otros,44
+Horta-Guinardó,Sant Genís dels Agudells,Diesel,934
+Horta-Guinardó,Sant Genís dels Agudells,Eléctrica,33
+Horta-Guinardó,Sant Genís dels Agudells,Gasolina,2265
+Horta-Guinardó,Sant Genís dels Agudells,Hibrido,210
+Horta-Guinardó,Sant Genís dels Agudells,Otros,44
+Horta-Guinardó,el Baix Guinardó,Diesel,2773
+Horta-Guinardó,el Baix Guinardó,Eléctrica,96
+Horta-Guinardó,el Baix Guinardó,Gasolina,7792
+Horta-Guinardó,el Baix Guinardó,Hibrido,725
+Horta-Guinardó,el Baix Guinardó,No consta,16
+Horta-Guinardó,el Baix Guinardó,Otros,134
+Horta-Guinardó,el Carmel,Diesel,3968
+Horta-Guinardó,el Carmel,Eléctrica,81
+Horta-Guinardó,el Carmel,Gasolina,10017
+Horta-Guinardó,el Carmel,Hibrido,617
+Horta-Guinardó,el Carmel,No consta,11
+Horta-Guinardó,el Carmel,Otros,200
+Horta-Guinardó,el Guinardó,Diesel,4507
+Horta-Guinardó,el Guinardó,Eléctrica,198
+Horta-Guinardó,el Guinardó,Gasolina,11182
+Horta-Guinardó,el Guinardó,Hibrido,1121
+Horta-Guinardó,el Guinardó,No consta,11
+Horta-Guinardó,el Guinardó,Otros,263
+Horta-Guinardó,la Clota,Diesel,153
+Horta-Guinardó,la Clota,Eléctrica,14
+Horta-Guinardó,la Clota,Gasolina,275
+Horta-Guinardó,la Clota,Hibrido,22
+Horta-Guinardó,la Clota,No consta,1
+Horta-Guinardó,la Clota,Otros,7
+Horta-Guinardó,la Font d'en Fargues,Diesel,1393
+Horta-Guinardó,la Font d'en Fargues,Eléctrica,75
+Horta-Guinardó,la Font d'en Fargues,Gasolina,3991
+Horta-Guinardó,la Font d'en Fargues,Hibrido,370
+Horta-Guinardó,la Font d'en Fargues,No consta,3
+Horta-Guinardó,la Font d'en Fargues,Otros,81
+Horta-Guinardó,la Teixonera,Diesel,1549
+Horta-Guinardó,la Teixonera,Eléctrica,51
+Horta-Guinardó,la Teixonera,Gasolina,3922
+Horta-Guinardó,la Teixonera,Hibrido,311
+Horta-Guinardó,la Teixonera,No consta,2
+Horta-Guinardó,la Teixonera,Otros,96
+Horta-Guinardó,la Vall d'Hebron,Diesel,853
+Horta-Guinardó,la Vall d'Hebron,Eléctrica,24
+Horta-Guinardó,la Vall d'Hebron,Gasolina,1807
+Horta-Guinardó,la Vall d'Hebron,Hibrido,216
+Horta-Guinardó,la Vall d'Hebron,No consta,6
+Horta-Guinardó,la Vall d'Hebron,Otros,43
+Les Corts,Pedralbes,Diesel,1880
+Les Corts,Pedralbes,Eléctrica,268
+Les Corts,Pedralbes,Gasolina,6469
+Les Corts,Pedralbes,Hibrido,719
+Les Corts,Pedralbes,No consta,19
+Les Corts,Pedralbes,Otros,68
+Les Corts,la Maternitat i Sant Ramon,Diesel,3377
+Les Corts,la Maternitat i Sant Ramon,Eléctrica,128
+Les Corts,la Maternitat i Sant Ramon,Gasolina,8386
+Les Corts,la Maternitat i Sant Ramon,Hibrido,924
+Les Corts,la Maternitat i Sant Ramon,No consta,8
+Les Corts,la Maternitat i Sant Ramon,Otros,189
+Les Corts,les Corts,Diesel,6640
+Les Corts,les Corts,Eléctrica,974
+Les Corts,les Corts,Gasolina,17059
+Les Corts,les Corts,Hibrido,2558
+Les Corts,les Corts,No consta,36
+Les Corts,les Corts,Otros,308
+Nou Barris,Can Peguera,Diesel,277
+Nou Barris,Can Peguera,Eléctrica,2
+Nou Barris,Can Peguera,Gasolina,628
+Nou Barris,Can Peguera,Hibrido,44
+Nou Barris,Can Peguera,Otros,19
+Nou Barris,Canyelles,Diesel,1178
+Nou Barris,Canyelles,Eléctrica,6
+Nou Barris,Canyelles,Gasolina,2190
+Nou Barris,Canyelles,Hibrido,193
+Nou Barris,Canyelles,No consta,2
+Nou Barris,Canyelles,Otros,77
+Nou Barris,Ciutat Meridiana,Diesel,1476
+Nou Barris,Ciutat Meridiana,Eléctrica,7
+Nou Barris,Ciutat Meridiana,Gasolina,2148
+Nou Barris,Ciutat Meridiana,Hibrido,137
+Nou Barris,Ciutat Meridiana,No consta,5
+Nou Barris,Ciutat Meridiana,Otros,61
+Nou Barris,Porta,Diesel,3095
+Nou Barris,Porta,Eléctrica,42
+Nou Barris,Porta,Gasolina,6243
+Nou Barris,Porta,Hibrido,601
+Nou Barris,Porta,No consta,6
+Nou Barris,Porta,Otros,185
+Nou Barris,Torre Baró,Diesel,586
+Nou Barris,Torre Baró,Eléctrica,12
+Nou Barris,Torre Baró,Gasolina,877
+Nou Barris,Torre Baró,Hibrido,51
+Nou Barris,Torre Baró,No consta,1
+Nou Barris,Torre Baró,Otros,28
+Nou Barris,Vallbona,Diesel,323
+Nou Barris,Vallbona,Eléctrica,9
+Nou Barris,Vallbona,Gasolina,406
+Nou Barris,Vallbona,Hibrido,25
+Nou Barris,Vallbona,Otros,32
+Nou Barris,Verdun,Diesel,1589
+Nou Barris,Verdun,Eléctrica,14
+Nou Barris,Verdun,Gasolina,2983
+Nou Barris,Verdun,Hibrido,253
+Nou Barris,Verdun,No consta,3
+Nou Barris,Verdun,Otros,110
+Nou Barris,Vilapicina i la Torre Llobeta,Diesel,3136
+Nou Barris,Vilapicina i la Torre Llobeta,Eléctrica,63
+Nou Barris,Vilapicina i la Torre Llobeta,Gasolina,6936
+Nou Barris,Vilapicina i la Torre Llobeta,Hibrido,672
+Nou Barris,Vilapicina i la Torre Llobeta,No consta,11
+Nou Barris,Vilapicina i la Torre Llobeta,Otros,183
+Nou Barris,el Turó de la Peira,Diesel,1680
+Nou Barris,el Turó de la Peira,Eléctrica,28
+Nou Barris,el Turó de la Peira,Gasolina,3807
+Nou Barris,el Turó de la Peira,Hibrido,304
+Nou Barris,el Turó de la Peira,No consta,5
+Nou Barris,el Turó de la Peira,Otros,70
+Nou Barris,la Guineueta,Diesel,2060
+Nou Barris,la Guineueta,Eléctrica,45
+Nou Barris,la Guineueta,Gasolina,4299
+Nou Barris,la Guineueta,Hibrido,518
+Nou Barris,la Guineueta,No consta,11
+Nou Barris,la Guineueta,Otros,111
+Nou Barris,la Prosperitat,Diesel,3538
+Nou Barris,la Prosperitat,Eléctrica,49
+Nou Barris,la Prosperitat,Gasolina,6742
+Nou Barris,la Prosperitat,Hibrido,568
+Nou Barris,la Prosperitat,No consta,12
+Nou Barris,la Prosperitat,Otros,252
+Nou Barris,la Trinitat Nova,Diesel,1074
+Nou Barris,la Trinitat Nova,Eléctrica,4
+Nou Barris,la Trinitat Nova,Gasolina,1780
+Nou Barris,la Trinitat Nova,Hibrido,111
+Nou Barris,la Trinitat Nova,No consta,5
+Nou Barris,la Trinitat Nova,Otros,55
+Nou Barris,les Roquetes,Diesel,2452
+Nou Barris,les Roquetes,Eléctrica,31
+Nou Barris,les Roquetes,Gasolina,3968
+Nou Barris,les Roquetes,Hibrido,254
+Nou Barris,les Roquetes,No consta,5
+Nou Barris,les Roquetes,Otros,139
+Sant Andreu,Baró de Viver,Diesel,394
+Sant Andreu,Baró de Viver,Gasolina,683
+Sant Andreu,Baró de Viver,Hibrido,36
+Sant Andreu,Baró de Viver,Otros,20
+Sant Andreu,Navas,Diesel,2608
+Sant Andreu,Navas,Eléctrica,56
+Sant Andreu,Navas,Gasolina,6254
+Sant Andreu,Navas,Hibrido,641
+Sant Andreu,Navas,No consta,12
+Sant Andreu,Navas,Otros,134
+Sant Andreu,Sant Andreu,Diesel,7525
+Sant Andreu,Sant Andreu,Eléctrica,184
+Sant Andreu,Sant Andreu,Gasolina,16555
+Sant Andreu,Sant Andreu,Hibrido,1841
+Sant Andreu,Sant Andreu,No consta,13
+Sant Andreu,Sant Andreu,Otros,384
+Sant Andreu,el Bon Pastor,Diesel,2953
+Sant Andreu,el Bon Pastor,Eléctrica,679
+Sant Andreu,el Bon Pastor,Gasolina,3654
+Sant Andreu,el Bon Pastor,Hibrido,812
+Sant Andreu,el Bon Pastor,No consta,3
+Sant Andreu,el Bon Pastor,Otros,478
+Sant Andreu,el Congrés i els Indians,Diesel,1605
+Sant Andreu,el Congrés i els Indians,Eléctrica,60
+Sant Andreu,el Congrés i els Indians,Gasolina,3874
+Sant Andreu,el Congrés i els Indians,Hibrido,379
+Sant Andreu,el Congrés i els Indians,No consta,4
+Sant Andreu,el Congrés i els Indians,Otros,90
+Sant Andreu,la Sagrera,Diesel,3572
+Sant Andreu,la Sagrera,Eléctrica,85
+Sant Andreu,la Sagrera,Gasolina,7752
+Sant Andreu,la Sagrera,Hibrido,857
+Sant Andreu,la Sagrera,No consta,4
+Sant Andreu,la Sagrera,Otros,214
+Sant Andreu,la Trinitat Vella,Diesel,1551
+Sant Andreu,la Trinitat Vella,Eléctrica,21
+Sant Andreu,la Trinitat Vella,Gasolina,2404
+Sant Andreu,la Trinitat Vella,Hibrido,214
+Sant Andreu,la Trinitat Vella,No consta,2
+Sant Andreu,la Trinitat Vella,Otros,47
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,1903
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Eléctrica,101
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasolina,3700
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Hibrido,592
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,No consta,5
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Otros,105
+Sant Martí,Provençals del Poblenou,Diesel,3522
+Sant Martí,Provençals del Poblenou,Eléctrica,145
+Sant Martí,Provençals del Poblenou,Gasolina,6256
+Sant Martí,Provençals del Poblenou,Hibrido,764
+Sant Martí,Provençals del Poblenou,No consta,9
+Sant Martí,Provençals del Poblenou,Otros,212
+Sant Martí,Sant Martí de Provençals,Diesel,3384
+Sant Martí,Sant Martí de Provençals,Eléctrica,64
+Sant Martí,Sant Martí de Provençals,Gasolina,7340
+Sant Martí,Sant Martí de Provençals,Hibrido,726
+Sant Martí,Sant Martí de Provençals,No consta,9
+Sant Martí,Sant Martí de Provençals,Otros,228
+Sant Martí,el Besòs i el Maresme,Diesel,3233
+Sant Martí,el Besòs i el Maresme,Eléctrica,48
+Sant Martí,el Besòs i el Maresme,Gasolina,5069
+Sant Martí,el Besòs i el Maresme,Hibrido,612
+Sant Martí,el Besòs i el Maresme,No consta,6
+Sant Martí,el Besòs i el Maresme,Otros,166
+Sant Martí,el Camp de l'Arpa del Clot,Diesel,4281
+Sant Martí,el Camp de l'Arpa del Clot,Eléctrica,102
+Sant Martí,el Camp de l'Arpa del Clot,Gasolina,10526
+Sant Martí,el Camp de l'Arpa del Clot,Hibrido,1099
+Sant Martí,el Camp de l'Arpa del Clot,No consta,7
+Sant Martí,el Camp de l'Arpa del Clot,Otros,266
+Sant Martí,el Clot,Diesel,3312
+Sant Martí,el Clot,Eléctrica,69
+Sant Martí,el Clot,Gasolina,7519
+Sant Martí,el Clot,Hibrido,855
+Sant Martí,el Clot,No consta,7
+Sant Martí,el Clot,Otros,182
+Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,2565
+Sant Martí,el Parc i la Llacuna del Poblenou,Eléctrica,1570
+Sant Martí,el Parc i la Llacuna del Poblenou,Gasolina,4840
+Sant Martí,el Parc i la Llacuna del Poblenou,Hibrido,619
+Sant Martí,el Parc i la Llacuna del Poblenou,No consta,8
+Sant Martí,el Parc i la Llacuna del Poblenou,Otros,172
+Sant Martí,el Poblenou,Diesel,4466
+Sant Martí,el Poblenou,Eléctrica,468
+Sant Martí,el Poblenou,Gasolina,9647
+Sant Martí,el Poblenou,Hibrido,1507
+Sant Martí,el Poblenou,No consta,8
+Sant Martí,el Poblenou,Otros,300
+Sant Martí,la Verneda i la Pau,Diesel,4270
+Sant Martí,la Verneda i la Pau,Eléctrica,67
+Sant Martí,la Verneda i la Pau,Gasolina,7891
+Sant Martí,la Verneda i la Pau,Hibrido,906
+Sant Martí,la Verneda i la Pau,No consta,7
+Sant Martí,la Verneda i la Pau,Otros,223
+Sant Martí,la Vila Olímpica del Poblenou,Diesel,1495
+Sant Martí,la Vila Olímpica del Poblenou,Eléctrica,119
+Sant Martí,la Vila Olímpica del Poblenou,Gasolina,3411
+Sant Martí,la Vila Olímpica del Poblenou,Hibrido,521
+Sant Martí,la Vila Olímpica del Poblenou,No consta,12
+Sant Martí,la Vila Olímpica del Poblenou,Otros,67
+Sants-Montjuïc,Hostafrancs,Diesel,1945
+Sants-Montjuïc,Hostafrancs,Eléctrica,65
+Sants-Montjuïc,Hostafrancs,Gasolina,4064
+Sants-Montjuïc,Hostafrancs,Hibrido,357
+Sants-Montjuïc,Hostafrancs,No consta,8
+Sants-Montjuïc,Hostafrancs,Otros,103
+Sants-Montjuïc,Sants,Diesel,4424
+Sants-Montjuïc,Sants,Eléctrica,127
+Sants-Montjuïc,Sants,Gasolina,11262
+Sants-Montjuïc,Sants,Hibrido,998
+Sants-Montjuïc,Sants,No consta,19
+Sants-Montjuïc,Sants,Otros,237
+Sants-Montjuïc,Sants - Badal,Diesel,2774
+Sants-Montjuïc,Sants - Badal,Eléctrica,58
+Sants-Montjuïc,Sants - Badal,Gasolina,6435
+Sants-Montjuïc,Sants - Badal,Hibrido,588
+Sants-Montjuïc,Sants - Badal,No consta,8
+Sants-Montjuïc,Sants - Badal,Otros,131
+Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Diesel,4061
+Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Eléctrica,104
+Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Gasolina,9056
+Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Hibrido,733
+Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,No consta,8
+Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Otros,202
+Sants-Montjuïc,la Bordeta,Diesel,2270
+Sants-Montjuïc,la Bordeta,Eléctrica,67
+Sants-Montjuïc,la Bordeta,Gasolina,5391
+Sants-Montjuïc,la Bordeta,Hibrido,557
+Sants-Montjuïc,la Bordeta,No consta,4
+Sants-Montjuïc,la Bordeta,Otros,144
+Sants-Montjuïc,la Font de la Guatlla,Diesel,1364
+Sants-Montjuïc,la Font de la Guatlla,Eléctrica,37
+Sants-Montjuïc,la Font de la Guatlla,Gasolina,3158
+Sants-Montjuïc,la Font de la Guatlla,Hibrido,296
+Sants-Montjuïc,la Font de la Guatlla,No consta,9
+Sants-Montjuïc,la Font de la Guatlla,Otros,69
+Sants-Montjuïc,la Marina de Port,Diesel,4123
+Sants-Montjuïc,la Marina de Port,Eléctrica,91
+Sants-Montjuïc,la Marina de Port,Gasolina,8833
+Sants-Montjuïc,la Marina de Port,Hibrido,701
+Sants-Montjuïc,la Marina de Port,No consta,13
+Sants-Montjuïc,la Marina de Port,Otros,285
+Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Diesel,4390
+Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Eléctrica,1981
+Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Gasolina,3200
+Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Hibrido,2039
+Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,No consta,26
+Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Otros,1958
+Sarrià-St. Gervasi,Sant Gervasi - Galvany,Diesel,7407
+Sarrià-St. Gervasi,Sant Gervasi - Galvany,Eléctrica,1007
+Sarrià-St. Gervasi,Sant Gervasi - Galvany,Gasolina,24731
+Sarrià-St. Gervasi,Sant Gervasi - Galvany,Hibrido,2568
+Sarrià-St. Gervasi,Sant Gervasi - Galvany,No consta,46
+Sarrià-St. Gervasi,Sant Gervasi - Galvany,Otros,301
+Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Diesel,3337
+Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Eléctrica,731
+Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Gasolina,12672
+Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Hibrido,1213
+Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,No consta,34
+Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Otros,107
+Sarrià-St. Gervasi,Sarrià,Diesel,3590
+Sarrià-St. Gervasi,Sarrià,Eléctrica,417
+Sarrià-St. Gervasi,Sarrià,Gasolina,11499
+Sarrià-St. Gervasi,Sarrià,Hibrido,1100
+Sarrià-St. Gervasi,Sarrià,No consta,19
+Sarrià-St. Gervasi,Sarrià,Otros,132
+Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,840
+Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Eléctrica,93
+Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasolina,2169
+Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Hibrido,211
+Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",No consta,1
+Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Otros,55
+Sarrià-St. Gervasi,el Putxet i el Farró,Diesel,3331
+Sarrià-St. Gervasi,el Putxet i el Farró,Eléctrica,241
+Sarrià-St. Gervasi,el Putxet i el Farró,Gasolina,12442
+Sarrià-St. Gervasi,el Putxet i el Farró,Hibrido,1095
+Sarrià-St. Gervasi,el Putxet i el Farró,No consta,16
+Sarrià-St. Gervasi,el Putxet i el Farró,Otros,115
+Sarrià-St. Gervasi,les Tres Torres,Diesel,2410
+Sarrià-St. Gervasi,les Tres Torres,Eléctrica,306
+Sarrià-St. Gervasi,les Tres Torres,Gasolina,9038
+Sarrià-St. Gervasi,les Tres Torres,Hibrido,841
+Sarrià-St. Gervasi,les Tres Torres,No consta,14
+Sarrià-St. Gervasi,les Tres Torres,Otros,71

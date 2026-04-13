@@ -1,0 +1,761 @@
+,nombre,tipo,direccion,type2,schuko,ccs2,chademo
+0,Ap. BSM - Estació Bcn-Nord,Parking,83 Carrer de Nàpols 08013,88,70,0,0
+1,Estació Barcelona-Nord,Parking,83 Carrer de Nàpols 08013,58,48,0,0
+2,Ap. BSM - Rius i Taulet,Parking,17 Avinguda de Rius i Taulet 08004,41,23,0,0
+3,Rius i Taulet,Parking,17 Avinguda de Rius i Taulet 08004,32,32,0,0
+4,Ap. BSM - Plaça Bonanova,Parking,2 Plaça de la Bonanova 08022,35,17,0,0
+5,Ap. BSM - Cotxeres de Sarrià,Parking,77 Passeig de Manuel Girona 08034,33,17,0,0
+6,Ap. BSM - Cardenal Sentmenat,Parking,25 Carrer del Cardenal Sentmenat 08017,31,16,0,0
+7,Ap. BSM - Sant Andreu Teatre,Parking,6 Carrer de les Monges 08030,30,12,0,0
+8,Ap. BSM - Plaça Navas,Parking,6 Carrer de Jaume Fabra 08004,29,13,0,0
+9,Ap. BSM - Travessera de Dalt,Parking,3 Avinguda del Santuari de Sant Josep de la Muntanya 08024,32,8,0,0
+10,Ap. BSM - Plaça del Fòrum,Parking,4 Avinguda d'Eduard Maristany 08930,26,12,0,0
+11,Cardenal Sentmenat-Vergós,Parking,25 Carrer del Cardenal Sentmenat 08017,21,16,0,0
+12,Ap. BSM - Torrent de l´Olla,Parking,38 Carrer de Nil Fabra 08012,25,11,0,0
+13,Mercat de Sant Antoni,Parking,1 Carrer del Comte d'Urgell 08011,22,13,0,0
+14,Sant Andreu Teatre,Parking,6 Carrer de les Monges 08030,18,17,0,0
+15,Plaça Bonanova,Parking,2 Plaça de la Bonanova 08022,21,13,0,0
+16,Ap. BSM - Mercat de Sant Antoni,Parking,1 Carrer del Comte d'Urgell 08011,30,3,0,0
+17,Ap. BSM - Passeig Maragall,Parking,54S Passeig de Maragall 08041,24,7,0,0
+18,Travessera de Dalt – Park Güell,Parking,3 Avinguda del Santuari de Sant Josep de la Muntanya 08024,18,13,0,0
+19,Ap. BSM - Illa Borbó,Parking,77s Carrer de Ramon Albó 08027,24,6,0,0
+20,Marina Gràcia,Parking,378 Carrer de la Marina 08025,12,9,0,0
+21,Charge point EDP Charge,Superficie,N5 Moll d'Espanya 08039,20,0,0,0
+22,CC. Maremagnum Barcelona,Parking,N5 Moll d'Espanya 08039,20,0,0,0
+23,Ap. BSM - Litoral Port,Parking,34S Avinguda del Litoral 08005,16,4,0,0
+24,Ap. BSM - Hospital del Mar,Parking,25 Passeig Marítim de la Barceloneta 08003,17,3,0,0
+25,Plaça Navas,Parking,6 Carrer de Jaume Fabra 08004,13,7,0,0
+26,Plaça del Fòrum,Parking,2 Carrer d'Eduard Maristany 08930,10,10,0,0
+27,Plaça Joanic,Parking,71 Carrer de Bruniquer 08024,12,8,0,0
+28,Tanatori les Corts,Parking,Carrer de Menéndez y Pelayo 08028,10,10,0,0
+29,Service Center Zal,Parking,90 Avinguda Ports d'Europa 08040,20,0,0,0
+30,Badajoz,Parking,173 Carrer de Badajoz 08018,11,8,0,0
+31,Interparking Hispania/7169,Superficie,38 Carrer d'Esteve Terradas 08023,18,0,0,0
+32,Gran Via de les Corts Catalanes 400 - Parking ONCE,Parking,406 Gran Via de les Corts Catalanes 08015,18,0,0,0
+33,"Av. Diagonal, 598",Superficie,598 Avinguda Diagonal 08021,12,6,0,0
+34,Ap. BSM - Badajoz,Parking,173 Carrer de Badajoz 08018,13,5,0,0
+35,Ap. BSM - Flos i Calcat,Parking,2 Carrer de Flos i Calcat 08034,14,4,0,0
+36,Plaça de les Arts,Parking,47d Avinguda Meridiana 08013,9,9,0,0
+37,Hospital del Mar,Parking,8 Carrer del Gas 08003,9,9,0,0
+38,Plaça Francesc Layret,Parking,Via Júlia 08042,9,9,0,0
+39,Ferran Casablancas,Parking,2S Carrer de Josep Balari 08022,9,9,0,0
+40,Ap. BSM - Mitre - Putxet,Parking,205 Ronda del General Mitre 08023,15,2,0,0
+41,Ap. BSM - Ona Glòries,Parking,171 Carrer de la Ciutat de Granada 08018,11,6,0,0
+42,Ona Glòries,Parking,176 Carrer de la Ciutat de Granada 08018,11,6,0,0
+43,Bilbao Llull,Parking,32.X Carrer de Bilbao 08005,12,5,0,0
+44,Torrent de l´Olla,Parking,23 Carrer de Nil Fabra 08012,10,7,0,0
+45,2666-Telpark - Barceloneta Port Vell,Superficie,4402 Plaça de Pau Vila 08039,16,0,0,0
+46,"Av. Diagonal, 508 (lateral Muntanya)",Superficie,508 Avinguda Diagonal 08006,8,8,0,0
+47,Ap. BSM - P. R. Biomèdica,Parking,179 Ronda Litoral 08003,14,2,0,0
+48,Avinguda Gaudí,Parking,328 Carrer de los Castillejos 08025,8,8,0,0
+49,Passeig Maragall,Parking,54S Passeig de Maragall 08041,12,4,0,0
+50,Marquès de Mulhacén,Parking,51 Carrer del Marquès de Mulhacen 08034,8,8,0,0
+51,Moll de la Fusta,Parking,1800 Ronda Litoral 08039,8,8,0,0
+52,CC Westfield Glòries,Superficie,208 Avinguda Diagonal 08018,15,0,0,0
+53,Parking Carlos III (PowerGo),Parking,9 Gran Via de Carles III 08028,15,0,0,0
+54,Ap. BSM - Porta de Sarrià,Parking,17 Carrer de Salvador Mundí 08017,13,2,0,0
+55,Ap. BSM - Bilbao Llull,Parking,32X Carrer de Bilbao 08005,10,5,0,0
+56,Mitre - Putxet,Parking,205 Ronda del General Mitre 08023,9,6,0,0
+57,Telpark - Hospital Clínic-CEK,Parking,149 Carrer del Rosselló 08036,14,0,0,0
+58,Fluvià 102-118,Superficie,368 Carrer de Fluvià 08019,6,4,2,2
+59,Ap. BSM - Mercat del Guinardó,Parking,24 Carrer de Teodor Llorente 08041,13,1,0,0
+60,Ap. BSM - Tanatori Les Corts,Parking,Carrer de Menéndez y Pelayo 08028,12,2,0,0
+61,Mercat Sagrada Família,Parking,437 Carrer de Mallorca 08013,10,4,0,0
+62,Ciutat del Teatre,Parking,35.C Carrer de la França Xica 08004,7,7,0,0
+63,Encants,Parking,162 Carrer de los Castillejos 08013,9,4,0,0
+64,Concepció Arenal,Parking,145 Carrer de Concepción Arenal 08027,8,5,0,0
+65,Obramat - Sabadell,Superficie,17 Carrer Riu 08205,2,0,10,0
+66,Obramat - Sabadell,Parking,17 Carrer Riu 08205,2,0,10,0
+67,Interparking Hispania/6278,Superficie,9 Carrer de Casp 08010,12,0,0,0
+68,Telpark - Sancho de Ávila,Parking,31X Carrer de Sancho de Ávila 08018,12,0,0,0
+69,Ap. BSM - Bus Garcia Fària,Parking,560 Carrer de Josep Pla 08019,8,4,0,0
+70,Ap. BSM - Concepció Arenal,Parking,145 Carrer de Concepción Arenal 08027,7,5,0,0
+71,undefined,Superficie,43 Carrer d'Arquímedes 08030,12,0,0,0
+72,Litoral Port,Parking,34.S Avinguda del Litoral 08005,6,6,0,0
+73,Parking Doctor Trueta - Promoparc,Superficie,218 Carrer del Doctor Trueta 08005,11,0,0,0
+74,LIV Student Barcelona,Superficie,86 Carrer de Puigcerdà 08019,11,0,0,0
+75,"Mas Casanovas, 69",Superficie,65 Carrer del Mas Casanovas 08041,5,0,3,3
+76,"Josep Pla, 2",Superficie,20 Carrer de Josep Pla 08019,6,3,1,1
+77,Ap. BSM - Encants,Parking,162 Carrer de los Castillejos 08013,9,2,0,0
+78,CEVASA,Parking,23 Carrer de Dublín 08027,11,0,0,0
+79,Rambla Poblenou,Parking,130.X Rambla del Poblenou 08018,9,2,0,0
+80,Marina Port,Parking,s/n Moll de la Marina 08005,6,5,0,0
+81,Parking Diagonal Numancia,Parking,22 Carrer de Flos i Calcat 08034,10,0,0,0
+82,Interparking Hispania/6280,Superficie,169 Carrer de Provença 08036,10,0,0,0
+83,Ap. BSM - Rambla Poblenou,Parking,130.X Rambla del Poblenou 08018,8,2,0,0
+84,Ap. BSM - Ciutat del Teatre,Parking,35 Carrer de la França Xica 08004,7,3,0,0
+85,Ap. BSM - Marquès de Mulhacén,Parking,42X Carrer del Marquès de Mulhacen 08034,8,2,0,0
+86,Ap. BSM - Sant Genís,Parking,158 Passeig de la Vall d'Hebron 08035,8,2,0,0
+87,Parking Larrondo,Parking,77 Carrer de Pujades 08005,10,0,0,0
+88,"Av. Diagonal, 447 (lateral Mar)",Superficie,445 Avinguda Diagonal 08036,2,4,2,2
+89,Fluvià 102-118,Superficie,368 Carrer de Fluvià 08019,2,4,2,2
+90,Puerto Transmediterranea,Superficie,1 Moll de Sant Bertran 08039,10,0,0,0
+91,"Av. Diagonal, 387 (lateral mar)",Superficie,310 Carrer de Còrsega 08008,4,5,0,0
+92,"Av. Diagonal, 429 (lateral Mar)",Superficie,431 Avinguda Diagonal 08006,4,5,0,0
+93,"Ciutat de Granada, 11",Superficie,1612 Carrer de la Ciutat de Granada 08005,6,3,0,0
+94,"Avinguda del Paral·lel, 55",Superficie,54 Avinguda del Paral·lel 08004,3,2,2,2
+95,"Aparcament Viriat, 5-23",Superficie,23 Carrer de Viriat 08014,3,0,3,3
+96,"Pl. Alfonso Comín, 12",Superficie,13 Carrer de Collserola 08022,3,0,3,3
+97,Lidl Gran Vía 159,Tienda,159 Gran Via de les Corts Catalanes 08014,9,0,0,0
+98,Parking Aura,Parking,33 Carrer de Buenos Aires 08036,8,0,0,0
+99,RTVE_RNE Barcelona,Superficie,127 Carrer de Roc Boronat 08018,8,0,0,0
+100,CC Westfield La Maquinista,Superficie,80 carrer de la República Dominicana 08030,8,0,0,0
+101,Interparking Hispania/6207,Superficie,206 La Rambla 08002,8,0,0,0
+102,Interparking Hispania/6205,Superficie,270 Carrer de València 08007,8,0,0,0
+103,Interparking Hispania/6204,Superficie,649 Carrer de Còrsega 08025,8,0,0,0
+104,"Hort de la Vila, 46",Superficie,50 Carrer de l'Hort de la Vila 08017,4,0,2,2
+105,"Joan de Borbó, 12",Superficie,14 Passeig de Joan de Borbó 08003,4,4,0,0
+106,"Pl. Alfonso Comín, 12",Superficie,13 Carrer de Collserola 08022,4,0,2,2
+107,Ciutat Meridiana,Parking,70B Avinguda dels Rasos de Peguera 08033,4,4,0,0
+108,"Camp de l'Arpa, 08041, Barcelona",Parking,408 Carrer de Sant Antoni Maria Claret 08041,0,0,8,0
+109,Parking trinxant,Parking,114 114 08041,8,0,0,0
+110,Sector DFactory,Superficie,57 Carrer Lletra A de la Zona Franca 08040,8,0,0,0
+111,Encants,Parking,162 Carrer de los Castillejos 08013,4,4,0,0
+112,Sant Genís-Vall d´Hebron,Parking,158 Passeig de la Vall d'Hebron 08035,6,2,0,0
+113,Bus Garcia Fària,Parking,560 Carrer de Josep Pla 08019,4,4,0,0
+114,Parking - Joan de Borbó,Parking,2 Passeig de Joan de Borbó 08003,8,0,0,0
+115,Parking Dr. Roig i Raventós,Parking,73 Carrer de Dalmases 08022,0,8,0,0
+116,Parking Torre Tarragona 161 - Promoparc,Superficie,161U Carrer de Tarragona 08014,7,0,0,0
+117,BCSABAURQUINAONA02,Superficie,2 Carrer d'Ausiàs Marc 08010,7,0,0,0
+118,2028-Telpark - Hospital Clínic-CEK,Superficie,149 Carrer del Rosselló 08036,7,0,0,0
+119,Eranovum e-mobility/64e601f57194eb2747971415,Superficie,325I Carrer d'Aragó 08009,6,0,1,0
+120,"Lope de Vega, 158-160",Superficie,492 Carrer de Lope de Vega 08018,4,3,0,0
+121,Foneria 29,Superficie,26 Carrer de la Foneria 08038,3,0,2,2
+122,Pintor Tapiró 2-6,Superficie,5 Carrer del Pintor Tapiró 08028,4,3,0,0
+123,"Av. Josep Vicenç Foix, 86 Bis",Superficie,86 Avinguda de Josep Vicenç Foix 08034,4,3,0,0
+124,"Rbla. Guipúscoa, 103",Superficie,103 Carrer de Guipúscoa 08020,4,3,0,0
+125,"Av. Esplugues, 52",Superficie,10 Carrer d'Eduard Toldrà 08034,4,3,0,0
+126,c/ Europa 38,Superficie,38 Carrer d'Europa 08014,4,3,0,0
+127,"Torras i Bages, 11",Superficie,11 Passeig de Torras i Bages 08030,4,3,0,0
+128,Mercat del Guinardó,Parking,24 Carrer de Teodor Llorente 08041,6,1,0,0
+129,Mercat del Guinardó,Parking,24 Carrer de Teodor Llorente 08041,6,1,0,0
+130,W Barcelona,Parking,21 Passeig del Mare Nostrum 08039,6,0,0,0
+131,"Club Arsenal Femenino Barcelona, Carrer d'Amigó 72",Parking,72 Carrer d'Amigó 08021,6,0,0,0
+132,"Club Arsenal Masculino Barcelona, Carrer de Pomaret 49",Parking,2B Carrer de Terré 08017,6,0,0,0
+133,"Garage Rambla del Brasil 29, PLANTA -1",Parking,29 Rambla del Brasil 08028,6,0,0,0
+134,Indra 22@ Barcelona,Superficie,133 Carrer Lutxana 08018,6,0,0,0
+135,GRIFOLS - SELBA EdRSR 1,Superficie,152 Avinguda de la Generalitat 08174,6,0,0,0
+136,Melia Barcelona Sarrià,Superficie,50 Avinguda de Sarrià 08029,6,0,0,0
+137,Campus Mundet - Migdia,Parking,0 Avinguda d'Arturo Mundet 08035,6,0,0,0
+138,Pàrking - SELBA EdRSR 1,Superficie,86 Gran Via de Carles III 08028,6,0,0,0
+139,Parking Garatge 2000 - SELBA EdRSR,Superficie,86 Carrer de Sant Antoni Maria Claret 08025,6,0,0,0
+140,Atlante - Marina Vela Capitania,Superficie,109 Passeig de Joan de Borbó 08039,0,0,6,0
+141,Atlante - Marina Vela Capitania,Superficie,109 Passeig de Joan de Borbó 08039,0,0,6,0
+142,BCMIRAMAR01,Superficie,44 N-2 08304,2,0,2,2
+143,"Endesa CPO SABA - Plaça de Catalunya, 08002 Barcelona, Spain",Superficie,9X Carrer del Portal de Santa Madrona 08001,2,0,2,2
+144,1591001318,Superficie,56 Carrer de Londres 08036,6,0,0,0
+145,1583000418,Superficie,139 Avinguda de Josep Tarradellas 08029,6,0,0,0
+146,Interparking Hispania/7061,Superficie,Via sense nom 08034,6,0,0,0
+147,"Garage Rambla del Brasil 29, PLANTA -1",Superficie,102 Carrer de Miquel Àngel 08028,6,0,0,0
+148,2079-Telpark - Sancho de Ávila,Superficie,31X Carrer de Sancho de Ávila 08018,6,0,0,0
+149,JAPE - PLANTA 1,Desconocido,23 Carrer d'Aragó 08015,6,0,0,0
+150,TheF Charging Espana - Garage Rambla del Brasil 29,Superficie,102 Carrer de Miquel Àngel 08028,6,0,0,0
+151,Obramat Vilanova,Parking,11 Carrer de L'Acer 08800,6,0,0,0
+152,WALA Zona Franca 205,Parking,205 Passeig de la Zona Franca 08038,6,0,0,0
+153,Novotel - Barcelona Cornellà,Superficie,82I Via de Bàrcino 08033,0,0,5,1
+154,Parking Garbi,Parking,6 Carrer de Casanova 08011,6,0,0,0
+155,Ausiàs March 151,Superficie,139 Carrer de la Marina 08013,2,2,1,1
+156,c/ Torrent de l'Olla 203,Superficie,38 Carrer de Nil Fabra 08012,2,2,1,1
+157,Parking NN Espronceda,Parking,65 Plaça de Victòria Kent 08018,6,0,0,0
+158,"Club Arsenal Femenino Barcelona, Carrer d'Amigó 72",Superficie,52 Carrer del Rector Ubach 08021,6,0,0,0
+159,TheF Charging Espana - Club Arsenal Femenino Barce,Superficie,52 Carrer del Rector Ubach 08021,6,0,0,0
+160,"Club Arsenal Masculino Barcelona, Carrer de Pomaret 49",Superficie,2B Carrer de Terré 08017,6,0,0,0
+161,TheF Charging Espana - Club Arsenal Masculino Barc,Superficie,2B Carrer de Terré 08017,6,0,0,0
+162,Llull 331,Parking,37 Carrer de la Selva de Mar 08019,6,0,0,0
+163,Parking Biblioteca FCCMA,Parking,2 Carrer d'Enric Granados 08007,6,0,0,0
+164,Europa 12,Superficie,14 Carrer d'Europa 08028,2,0,2,2
+165,"Mas Casanovas, 69",Superficie,65 Carrer del Mas Casanovas 08041,2,0,2,2
+166,"Av. Diagonal, 429 (lateral Mar)",Superficie,431 Carrer de Londres 08036,0,6,0,0
+167,"Av. Diagonal, 508 (lateral Muntanya)",Superficie,508 Avinguda Diagonal 08006,0,6,0,0
+168,"Carrer Fra Juníper Serra, 57",Superficie,61 Carrer de Fra Juníper Serra 08030,2,0,2,2
+169,"Via Augusta, 352",Superficie,352 Via Augusta 08017,2,0,2,2
+170,Ciutat Meridiana,Parking,70B Avinguda dels Rasos de Peguera 08033,3,3,0,0
+171,Parking Balmoral,Parking,5 Via Augusta 08006,6,0,0,0
+172,Hotel SiR VICTOR,Hotel,267 Carrer del Rosselló 08008,0,0,0,0
+173,Mercadona - Vilassar,Tienda,343 Poligono Industrial els Garrofers 08340,6,0,0,0
+174,Parking Romara,Parking,9 Carrer d'Aribau 08011,3,3,0,0
+175,SABA/autopistas,Superficie,22 Avinguda Parc Logístic 08040,6,0,0,0
+176,Parking SEMSA Mallorca 333,Parking,333 Carrer de Mallorca 08037,0,6,0,0
+177,Parking Poeta Cabanyes - Promoparc,Superficie,10 Carrer del Poeta Cabanyes 08004,5,0,0,0
+178,PARQUING SANT JAUME,Parking,45 Carrer del Lluçanès 08022,5,0,0,0
+179,Telpark - Ninot,Parking,190 Carrer de Provença 08036,5,0,0,0
+180,BCSABAAPARCAMIENTOPLAZACATALUNA09,Superficie,21 Carrer de Rivadeneyra 08002,5,0,0,0
+181,Bauhaus,Parking,29 Carrer de l'Estany 08038,5,0,0,0
+182,Parking Carlos III (PowerGo),Superficie,5860 Gran Via de Carles III 08028,5,0,0,0
+183,"Rosselló i Porcel, 9",Superficie,10 Carrer de Rosselló i Pòrcel 08016,1,2,1,1
+184,Mallorca 100,Superficie,100 Carrer de Mallorca 08029,2,0,1,2
+185,"Rosselló i Porcel, 9",Superficie,78 Avinguda de Rio de Janeiro 08016,1,2,1,1
+186,"Josep Pla, 2",Superficie,14 Carrer de Josep Pla 08019,1,2,1,1
+187,"Avinguda del Paral·lel, 55",Superficie,54 Avinguda del Paral·lel 08004,1,2,1,1
+188,c/ Torrent de l'Olla 203,Superficie,23 Carrer de Nil Fabra 08012,1,2,1,1
+189,Wallbox rRcharging Solution Gran Via,Parking,15S Carrer de Llança 08015,2,0,0,0
+190,Aparcament REGESA - Plaça Maragall,Parking,1 Plaça de Maragall 08041,0,4,1,0
+191,El Corte Inglés Diagonal,Centro comercial,7 Carrer d'Europa 08028,2,2,0,0
+192,"Abba Garden Hotel Barcelona, PLANTA -1",Parking,33 Calle de Santa Rosa 08950,4,0,0,0
+193,INNSiDE by Meliá Barcelona Aeropuerto,Parking,1-2 Plaça Pla de l'Estany 08820,4,0,0,0
+194,TheF Charging Espana - INNSiDE by Meliá Barcelona,Superficie,1-2 Plaça Pla de l'Estany 08820,4,0,0,0
+195,Barcelona - Parking Condal,Superficie,"24, pral 1 Plaça del Doctor Letamendi 08007",0,0,4,0
+196,INNSiDE by Meliá Barcelona Aeropuerto,Superficie,1-2 Plaça Pla de l'Estany 08820,4,0,0,0
+197,Parking El Born Center. Barcelona - Parkia,Superficie,1 Plaça Comercial 08003,4,0,0,0
+198,Parking Clínica Corachan. Barcelona - Parkia,Superficie,600 Avinguda Diagonal 08021,4,0,0,0
+199,Parking Cap Maragall. Barcelona - Parkia,Superficie,52 Passeig Maragall 08041,4,0,0,0
+200,Parking Muntaner Tavern - Promoparc,Superficie,51 Carrer de Tavern 08006,4,0,0,0
+201,Campus Mundet - Ponent,Parking,24I Carrer de l'Harmonia 08035,4,0,0,0
+202,Barcelona - Parking Condal,Parking,24 Plaça del Doctor Letamendi 08007,0,0,4,0
+203,Parking Rocas Aribau,Parking,170 Carrer d'Aribau 08036,4,0,0,0
+204,BARCARRERDELCOMTEURGELL03,Superficie,8 Carrer del Comte d'Urgell 08011,4,0,0,0
+205,BCNJARDINETSDEGRACIA01,Superficie,9999 Passeig de Gràcia 08008,4,0,0,0
+206,BARCLUBNATACIONLLEIDA01,Superficie,16 Carrer de Viriat 08014,4,0,0,0
+207,"Endesa CPO BAMSA - Pg. de Gràcia, 08007 Barcelona, Spain",Superficie,38 Passeig de Gràcia 08007,4,0,0,0
+208,BASABADIPUTACIO02,Superficie,286 Carrer de la Diputació 08009,4,0,0,0
+209,1590000618,Superficie,116B Passeig de Gràcia 08008,4,0,0,0
+210,Parking Viladomat,Parking,314 Carrer de Viladomat 08029,4,0,0,0
+211,JAPE - PLANTA -1,Desconocido,23 Carrer d'Aragó 08015,4,0,0,0
+212,"Abba Garden Hotel Barcelona, PLANTA -1",Superficie,33 Calle de Santa Rosa 08950,4,0,0,0
+213,Training D26,Desconocido,20 Carrer D 08040,4,0,0,0
+214,TheF Charging Espana - Abba Garden Hotel Barcelona,Superficie,33 Calle de Santa Rosa 08950,4,0,0,0
+215,Puiggarí 37,Superficie,23 Carrer de Viriat 08014,2,0,1,1
+216,cementiri Montjuïc,Superficie,40 Carrer de la Mare de Déu de Port 08038,0,4,0,0
+217,Cisell 8,Superficie,8 Carrer del Cisell 08038,2,0,1,1
+218,Ronda Sant Pau 60,Superficie,62 Ronda de Sant Pau 08001,2,0,1,1
+219,Moragas 17,Superficie,17 Carrer de Moragas 08022,2,0,1,1
+220,Nena Cases 24,Superficie,24 Carrer de la Nena Casas 08017,2,0,1,1
+221,Can Marcet 18,Superficie,18 Avinguda de Can Marcet 08035,2,0,1,1
+222,Legalitat 53,Superficie,55 Carrer de la Legalitat 08024,2,0,1,1
+223,Diputació 344,Superficie,371 Carrer de la Diputació 08013,2,0,1,1
+224,"Reina Victoria, 9",Superficie,10 Carrer de la Reina Victòria 08021,2,0,1,1
+225,Virgili 10,Superficie,4 Carrer de Virgili 08030,2,0,1,1
+226,Can Bruixa 23,Superficie,33 Carrer de Can Bruixa 08014,2,0,1,1
+227,Roger de Llúria 124,Superficie,124 Carrer de Roger de Llúria 08037,2,0,1,1
+228,Cantàbria 28,Superficie,29 Carrer de Cantàbria 08020,2,0,1,1
+229,Concepció Arenal 26,Superficie,26B Carrer de Concepción Arenal 08027,2,0,1,1
+230,Salvador Espriu 97,Superficie,Carrer de Salvador Espriu 08005,2,0,1,1
+231,Torras i Bages 124,Superficie,124 Plaça de Josep Andreu i Abelló 08030,2,0,1,1
+232,Poesia 2,Superficie,7B Carrer de la Poesia 08035,2,0,1,1
+233,Pare Mariana 21,Superficie,135 Carrer del Pare Mariana 08035,2,0,1,1
+234,Química 2,Superficie,2 Carrer de la Química 08038,2,0,1,1
+235,Pg. Joan de Borbó 68,Superficie,69 Passeig de Joan de Borbó 08003,2,2,0,0
+236,John M. Keynes,Superficie,37 Carrer de John Maynard Keynes 08034,2,0,1,1
+237,Jerez 14,Superficie,16 Carrer de Jerez 08032,1,1,1,1
+238,Pg. Picasso 8,Superficie,8 Passeig de Picasso 08003,2,0,1,1
+239,Europa 12,Superficie,14 Carrer d'Europa 08028,2,0,1,1
+240,Entença 335,Superficie,115 Carrer de Déu i Mata 08029,2,0,1,1
+241,"Via Favència, 21",Superficie,21X Via Favència 08042,2,0,1,1
+242,"Carrer Roc Boronat, 122",Superficie,125 Carrer de Roc Boronat 08018,2,0,1,1
+243,"Carrer Fra Juníper Serra, 57",Superficie,61 Carrer de Fra Juníper Serra 08030,2,0,1,1
+244,"Pla de Palau, 21",Superficie,1366 Pla de Palau 08003,2,0,1,1
+245,"Llull, 285",Superficie,288 Calle de Llull 08019,2,2,0,0
+246,"Pl. Maragall, 21",Superficie,21 Plaça de Maragall 08027,2,2,0,0
+247,"Fontanella, 1",Superficie,1 Carrer de Fontanella 08002,2,2,0,0
+248,"Provença, 447",Superficie,447 Carrer de Provença 08025,2,0,1,1
+249,Galícia,Parking,12 Carrer de Galícia 08033,2,2,0,0
+250,"Mercadona València, Barcelona",Parking,531 Carrer de València 08013,4,0,0,0
+251,Saba Constanza,Parking,69 Carrer de Déu i Mata 08029,4,0,0,0
+252,Torre Pujades,Parking,342 Carrer de Pujades 08019,4,0,0,0
+253,Mercadona La Pau,Tienda,24 carrer José Garrido Gámez 08020,4,0,0,0
+254,Hotel Claris,Hotel,152 Carrer de Pau Claris 08009,4,0,0,0
+255,Ap. Esperança i Guell,Parking,13 Carrer de Sant Cugat del Vallès 08024,4,0,0,0
+256,Factor Energía - RC POLO BCN - Entrada Principal,Superficie,27 Avinguda Doctor Marañón 08028,4,0,0,0
+257,Gràcia Motos,Parking,190 Carrer Gran de Gràcia 08012,2,2,0,0
+258,Gràcia Motos,Parking,190 Carrer Gran de Gràcia 08012,2,2,0,0
+259,Jerez 14,Superficie,16 Carrer de Jerez 08032,1,1,1,1
+260,"Av. Diagonal, 598",Superficie,598 Avinguda Diagonal 08021,0,4,0,0
+261,"Av. Diagonal, 387 (lateral mar)",Superficie,310 Carrer de Còrsega 08008,0,4,0,0
+262,"Pascual i Vila, 23",Superficie,23-24 Carrer de Pascual i Vila 08028,0,4,0,0
+263,"Joan de Borbó, 12",Superficie,14 Passeig de Joan de Borbó 08003,0,4,0,0
+264,Tibidabo,Parking,33 Carrer Tibidabo a Vall 08035,2,2,0,0
+265,Galícia,Parking,28 Carrer de Galícia 08033,2,2,0,0
+266,Mercabarna Pavelló Bio,Parking,23 Carrer Transversal 5 08040,4,0,0,0
+267,Lidl Jardins de Màlaga,Tienda,20 Carrer de Numància 08029,4,0,0,0
+268,saba mercat santa catarina,Parking,20 Carrer de Freixures 08003,4,0,0,0
+269,Mercadona les Torres,Tienda,2 Carrer dels Nou Barris 08042,4,0,0,0
+270,Hotel Sofia,Hotel,1 Carrer del Doctor Salvador Cardenal 08028,1,0,0,0
+271,Andante Hotel,Hotel,23 Avinguda de les Drassanes 08001,4,0,0,0
+272,ZT The Golden Hotel Barcelona,Hotel,135 Carrer d'Àvila 08018,4,0,0,0
+273,Parking Norte Nissan Fábrica,Superficie,107 Travessia es 08040,0,3,0,1
+274,H10 Cubik,Hotel,69 Via Laietana 08003,2,0,0,0
+275,Parking Carrer Premià,Parking,45 Carrer de Premià 08014,2,2,0,0
+276,Hotel Acevi Villarroel,Hotel,103 Carrer de Villarroel 08011,1,2,0,0
+277,Parking Hotel Ronda Lesseps,Hotel,64 Carrer de Ballester 08023,0,3,0,0
+278,REGESA - Park & Ride del Besòs,Parking,13 Avinguda d'Eduard Maristany 08930,0,4,0,0
+279,Parking M,Parking,506 Carrer del Rosselló 08025,0,4,0,0
+280,Aparcament REGESA - Plaça Ferran Reyes,Parking,231L Avinguda Meridiana 08027,0,4,0,0
+281,Aparcament REGESA - Mercat de la Mercè,Parking,1X Carrer de Joan Alcover 08031,0,4,0,0
+282,Telpark - Hospital Sagrado Cor,Parking,298 Carrer de Viladomat 08029,3,0,0,0
+283,Zona BCN (Parking MX),Superficie,316 Travessera de Gràcia 08025,3,0,0,0
+284,"Passeig de Gràcia, 5",Superficie,3 Passeig de Gràcia 08007,1,0,1,1
+285,Melia Barcelona Sky,Superficie,274 Carrer de Pere IV 08018,3,0,0,0
+286,NH Collection Barcelona Constanza,Superficie,95U Carrer de Déu i Mata 08029,3,0,0,0
+287,Eranovum - Sant Cugat,Parking,21 Avinguda de la Via Augusta 08174,1,0,2,0
+288,Best Western Plus Alfa Aeropuerto,Hotel,6 Carrer K Zona Franca 08040,3,0,0,0
+289,Endesa CPO - Ml Inflamables,Superficie,9 Ml Inflamables 08040,1,0,1,1
+290,Endesa CPO - JOSEL - Passeig de Sant Gervasi,Superficie,51 Passeig de Sant Gervasi 08022,3,0,0,0
+291,"Endesa CPO SABA APARCAMIENTOS - Av. de Pau Casals, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",Superficie,5 Avinguda de Pau Casals 08021,3,0,0,0
+292,BCSABAELECTROLINERACARLESIII01,Superficie,81 Gran Via de Carles III 08028,1,0,1,1
+293,"Endesa CPO SABA - Pl. d'Urquinaona, 08010 Barcelona, Spain",Superficie,3 Plaça d'Urquinaona 08010,1,0,1,1
+294,BCSABAELECTROLINERACARLESIII02,Superficie,81 Gran Via de Carles III 08028,1,0,1,1
+295,62126022680008,Superficie,10 Avinguda de la Catedral,1,0,1,1
+296,"Endesa CPO SABA - Jardines Ps. Gràcia, Barcelona, Spain",Superficie,116B Passeig de Gràcia 08008,1,0,1,1
+297,BCSABATRAVESSERA17-21C9,Superficie,23 Travessera de Gràcia 08021,3,0,0,0
+298,BCSABACATEDRAL,Superficie,9 Avinguda de la Catedral,3,0,0,0
+299,Eranovum e-mobility/6694fb0cbc4bc2d82f94826b,Superficie,166 Avinguda de Madrid 08028,3,0,0,0
+300,Eranovum e-mobility/66542f0781c2c43a755eb398,Superficie,236B Carrer de Sicília 08013,2,0,1,0
+301,E.S. Repsol Avda Sarria,Estación de servicio,126 Avinguda de Sarrià 08017,1,0,1,1
+302,Parking Riubar - 01,Superficie,63 Carrer de Mallorca 08029,3,0,0,0
+303,BMW Charging @ Destination,Superficie,3 Moll d'Espanya 08039,3,0,0,0
+304,Náutico BCN 1,Superficie,3 Moll d'Espanya 08039,3,0,0,0
+305,Parking Continental,Parking,150 Carrer de Roger de Flor 08013,3,0,0,0
+306,CARMEL COORPORACIÓ 2000 SL,Parking,75 Gran Via de Carles III 08028,3,0,0,0
+307,"Llobregós, 215",Superficie,213 Carrer del Llobregós 08032,1,0,1,1
+308,Mercabarna,Superficie,25 Carrer Major 08040,1,0,1,1
+309,"Av. Meridiana, 400 E",Superficie,396 Avinguda Meridiana 08030,1,0,1,1
+310,Tanatori Ronda de Dalt,Parking,37 Carrer de Scala Dei 08035,3,0,0,0
+311,Repsol Bon Pastor,Estación de servicio,25 Passeig de Guayaquil 08030,1,0,1,1
+312,Repsol Castelldefels,Estación de servicio,172 172 08850,1,0,1,1
+313,Cisell 8,Superficie,45 Passeig de la Zona Franca 08038,1,0,1,1
+314,Moragas 17,Superficie,17 Carrer de Moragas 08022,1,0,1,1
+315,Ronda Sant Pau 60,Superficie,62 Ronda de Sant Pau 08001,1,0,1,1
+316,Can Marcet 18,Superficie,18 Avinguda de Can Marcet 08035,1,0,1,1
+317,Legalitat 53,Superficie,55 Carrer de la Legalitat 08024,1,0,1,1
+318,"Llobregós, 215",Superficie,211 Carrer del Llobregós 08032,1,0,1,1
+319,Virgili 10,Superficie,4 Carrer de Virgili 08030,1,0,1,1
+320,"Reina Victoria, 9",Superficie,10 Carrer de la Reina Victòria 08021,1,0,1,1
+321,Guerin Barcelona,Tienda,124 Carrer de Santander 08030,3,0,0,0
+322,Repsol Juníper Serra,Estación de servicio,4 Passeig d'Enric Sanchis 08030,1,0,1,1
+323,Can Bruixa 23,Superficie,33 Carrer de Can Bruixa 08014,1,0,1,1
+324,Foneria 29,Superficie,26 Carrer de la Foneria 08038,1,0,1,1
+325,Cantàbria 28,Superficie,29 Carrer de Cantàbria 08020,1,0,1,1
+326,Roger de Llúria 124,Superficie,124 Carrer de Roger de Llúria 08037,1,0,1,1
+327,Carrer 60,Superficie,25 Carrer 60 08040,1,0,1,1
+328,Ausiàs March 151,Superficie,139 Carrer de la Marina 08013,1,0,1,1
+329,Concepció Arenal 26,Superficie,26B Carrer de Concepción Arenal 08027,1,0,1,1
+330,Salvador Espriu 97,Superficie,8 Carrer de Jaume Vicens i Vives 08005,1,0,1,1
+331,Torras i Bages 124,Superficie,149 Passeig de Torras i Bages 08030,1,0,1,1
+332,Poesia 2,Superficie,7B Carrer de la Poesia 08035,1,0,1,1
+333,Química 2,Superficie,2 Carrer de la Química 08038,1,0,1,1
+334,Pare Mariana 21,Superficie,17 Carrer del Pare Mariana 08035,1,0,1,1
+335,John M. Keynes,Superficie,37 carrer de John Maynard Keynes 08034,1,0,1,1
+336,Mallorca 100,Superficie,100 Carrer de Mallorca 08029,1,0,1,1
+337,Pg. Picasso 8,Superficie,8 Passeig de Picasso 08003,1,0,1,1
+338,Entença 335,Superficie,115 Carrer de Déu i Mata 08029,1,0,1,1
+339,Mercabarna,Superficie,25 Carrer Major 08040,1,0,1,1
+340,"Via Favència, 21",Superficie,21X Via Favència 08042,1,0,1,1
+341,"Carrer Roc Boronat, 122",Superficie,125 Carrer de Roc Boronat 08018,1,0,1,1
+342,"Pla de Palau, 21",Superficie,1366 Pla de Palau 08003,1,0,1,1
+343,"Provença, 447",Superficie,447 Carrer de Provença 08025,1,0,1,1
+344,"Av. Meridiana, 400 E",Superficie,396 Avinguda Meridiana 08030,1,0,1,1
+345,"Passeig de Gràcia, 5",Superficie,4 Carrer de Casp 08010,1,0,1,1
+346,Hotel SB Icària,Hotel,195 Avinguda d'Icària 08005,3,0,0,0
+347,REPSOL Plaça Karl Marx,Estación de servicio,106 Passeig de Valldaura 08042,1,0,1,1
+348,Trio La Marina de Port,Superficie,19-11 Carrer Mercuri 08038,1,0,1,1
+349,Lidl Vall d'Hebron,Tienda,21 Carrer de Trueba 08035,3,0,0,0
+350,Parking gasolinera Balmes,Parking,290 Carrer de Balmes 08006,3,0,0,0
+351,Bonanova Park,Hotel,51 Carrer del Capità Arenas 08034,3,0,0,0
+352,Corte Ingles - Frances Macia,Centro comercial,471 Avinguda Diagonal 08036,3,0,0,0
+353,BCSABAGRACIACCENT06,Superficie,310 Carrer del Consell de Cent 08007,3,0,0,0
+354,Moll de Barcelona,Superficie,2 Ml Barcelona 08039,1,0,1,1
+355,Parking Sur Fábrica Nissan,Superficie,Carrer Quatre 08040,0,3,0,0
+356,L'illa Diagonal SABA,Centro comercial,150 Carrer de Numància 08029,2,0,0,0
+357,E.S. Diagonal Campus Barcelona,Estación de servicio,695 Avinguda Diagonal 08028,1,0,1,1
+358,"Club Esportiu Laietà Barcelona, Carrer Pintor Ribalta 2",Parking,2 Carrer Pintor Ribalta 08028,0,0,2,0
+359,BCMCDOANLDSVILLAOLIMPICA55COMPANIA01,Superficie,45 Avinguda del Litoral 08005,0,0,2,0
+360,La Granada DC1-Charger 4,Superficie,2 Carrer del Baix Penedès 08792,2,0,0,0
+361,Charge point EDP Charge,Superficie,239 Carrer d'Aragó 08007,2,0,0,0
+362,Charge point EDP Charge,Superficie,55 Travessera de Gràcia 08006,2,0,0,0
+363,Charge point EDP Charge,Superficie,74C Passeig de Joan de Borbó 08039,2,0,0,0
+364,BCAJUNTAMENTDEVALLROMANES02,Superficie,7 Plaça Esglesia 08188,2,0,0,0
+365,Mercadona,Parking,2 Carrer de Micaela Chalmeta 08038,2,0,0,0
+366,C32 S-3 Plz 309 y 310,Parking,148 Carrer de la Ciutat de Granada 08018,2,0,0,0
+367,C22 Plazas 25 y 26,Parking,132 Gran Via de les Corts Catalanes 08038,2,0,0,0
+368,C22 Plazas 20 y 21,Parking,132 Gran Via de les Corts Catalanes 08038,2,0,0,0
+369,NH Barcelona Diagonal Center,Superficie,121 Carrer d'Àlaba 08018,2,0,0,0
+370,Parking Bertran 73 Putxet - Promoparc,Superficie,75 Carrer de Bertran 08023,2,0,0,0
+371,Hotel NH Barcelona Stadium,Superficie,111 Travessera de les Corts 08028,2,0,0,0
+372,APK2 Travessera 53,Parking,55 Travessera de Gràcia 08006,2,0,0,0
+373,APK2 Plaza del Mar,Parking,74C Passeig de Joan de Borbó 08039,2,0,0,0
+374,APK2 Cèntric,Parking,239 Carrer d'Aragó 08007,2,0,0,0
+375,BALLENOIL-ES171650-LOPE DE VEGA,Superficie,137 Carrer de Lope de Vega 08018,0,0,2,0
+376,BALLENOIL-ES171650-LOPE DE VEGA,Superficie,137 Carrer de Lope de Vega 08018,0,0,2,0
+377,Nissan Sants-Montjuïc,Parking,65 Passeig de la Zona Franca 08038,0,0,1,1
+378,Nissan San Andrés de Palomar,Parking,51 Carrer de la Ciutat d'Asuncion 08030,0,0,1,1
+379,Galp Barcelona Pujades - 162,Parking,297 Carrer de Pujades 08019,0,0,2,0
+380,Galp Barcelona Calle Y - 165,Parking,31 Carrer Y 08040,0,0,2,0
+381,Galp Barcelona - Z.Franca-Puerto - 164,Parking,79 Passeig de la Zona Franca 08038,0,0,2,0
+382,2720-Telpark - Sala,Superficie,298 Carrer de Galileu 08014,2,0,0,0
+383,Punto de Spint 6,Parking,68 Carrer del Foc 08038,1,0,0,1
+384,Zona Franca – Barcelona – 03,Superficie,67 Travessia Es 08040,2,0,0,0
+385,Parking Rocas Paris,Parking,184 Carrer de París 08036,2,0,0,0
+386,EUROSTARS Anglí - 263,Parking,Via Sense Nom 08017,2,0,0,0
+387,Eurostars Grand Marina - 141,Parking,Moll de Barcelona 08039,2,0,0,0
+388,PARKING GAPARK,Parking,29 Carrer de la Mare de Déu del Remei 08004,1,0,0,0
+389,Galp Zona Franca Plaza Cerda - 016,Parking,225 Passeig de la Zona Franca 08038,0,0,2,0
+390,BCMCDONALDSLAROCAFACTORY01,Superficie,0F Poligono Can Massaguer Nord 08430,0,0,2,0
+391,BARCCARRERDELMASCASANOVASABA05,Superficie,70 Carrer del Mas Casanovas 08041,2,0,0,0
+392,BARCCARRERDELMASCASANOVASABA06,Superficie,65 Carrer del Mas Casanovas 08041,2,0,0,0
+393,"Endesa CPO BAMSA - Av. de Josep Tarradellas, 46, 08029 Barcelona, Spain",Superficie,46 Avinguda de Josep Tarradellas 08029,2,0,0,0
+394,"Endesa CPO SABA - Pg. de Gràcia, 33, L'Eixample, 08007 Barcelona, Spain",Superficie,33 Passeig de Gràcia 08007,2,0,0,0
+395,"Endesa CPO SABA - Pg. de Gràcia, 33, L'Eixample, 08007 Barcelona, Spain",Superficie,33 Passeig de Gràcia 08007,2,0,0,0
+396,BCNPASSEIGDEGRACIA05,Superficie,90 Passeig de Gràcia 08008,2,0,0,0
+397,"Endesa CPO SABA - Pg. de Gràcia, 33, L'Eixample, 08007 Barcelona, Spain",Superficie,33 Passeig de Gràcia 08007,2,0,0,0
+398,BCNPASSEIGDEGRACIA06,Superficie,84 Passeig de Gràcia 08008,2,0,0,0
+399,BCSABARAMBLACATALUNYA01,Superficie,14 Rambla de Catalunya 08007,2,0,0,0
+400,"Endesa CPO SABA - Pg. de Gràcia, 33, L'Eixample, 08007 Barcelona, Spain",Superficie,33 Passeig de Gràcia 08007,2,0,0,0
+401,Endesa CPO - Carrer de l'Hospital,Superficie,25 Carrer de l'Hospital 08001,2,0,0,0
+402,BCOCCIDENTALBARCELONA192901,Superficie,2A Carrer de la Diputació 08014,2,0,0,0
+403,BCOCCIDENTALBARCELONA192902,Superficie,2A Carrer de la Diputació 08014,2,0,0,0
+404,BCBARCELOOCCIDENTAL41401,Superficie,152 Carrer del Bruc 08037,2,0,0,0
+405,BCPARKINGCONTINENTALNUMANCIA04,Superficie,13 Carrer de Numància 08029,2,0,0,0
+406,Endesa CPO - JOSE CORSEGA - C. de Còrsega,Superficie,344 Carrer de Còrsega 08037,2,0,0,0
+407,61932036570001,Superficie,16 Carrer de Neptú 08006,2,0,0,0
+408,Endesa CPO - PANUFER VALENCIA - C/ de València,Superficie,245 Carrer de València 08007,2,0,0,0
+409,BCTRANSGOURMETGMCASTELLBISBAL01,Superficie,118 Carrer Potassi 08740,2,0,0,0
+410,BCBARCELOSANTS01,Superficie,16 Carrer de Viriat 08014,2,0,0,0
+411,1591002318,Superficie,32 Avinguda de Francesc Cambó 08003,2,0,0,0
+412,1591002118,Superficie,10 Avinguda de Francesc Cambó 08003,2,0,0,0
+413,Endesa CPO - BAMSA - Carrer del Comte d'Urgell,Superficie,8 Carrer del Comte d'Urgell 08011,2,0,0,0
+414,1591001818,Superficie,16S Rambla de Catalunya 08007,2,0,0,0
+415,1591001718,Superficie,16S Rambla de Catalunya 08007,2,0,0,0
+416,1591001618,Superficie,46 Avinguda de Josep Tarradellas 08029,2,0,0,0
+417,1591001518,Superficie,56 Carrer de Londres 08036,2,0,0,0
+418,BBMDIPUTACIO02,Superficie,245 Carrer de la Diputació 08007,2,0,0,0
+419,1591001118,Superficie,60 Passeig de Gràcia 08007,2,0,0,0
+420,1591000918,Superficie,40 Carrer del Baluard 08003,2,0,0,0
+421,"Endesa CPO BAMSA - Pg. de Gràcia & C. del Consell de Cent, 08007 Barcelona, SpainPg. de Gràcia & C. del Consell",Superficie,42 Passeig de Gràcia 08007,2,0,0,0
+422,1591000518,Superficie,21 Carrer de Rivadeneyra 08002,2,0,0,0
+423,1591000318,Superficie,21 Carrer de Rivadeneyra 08002,2,0,0,0
+424,1590002418,Superficie,148 Carrer de Casanova 08036,2,0,0,0
+425,1590002318,Superficie,10 Carrer dels Àngels 08001,2,0,0,0
+426,1590002218,Superficie,21 Carrer dels Àngels 08001,2,0,0,0
+427,1590002118,Superficie,148 Carrer de Casanova 08036,2,0,0,0
+428,1590001018,Superficie,181 Carrer de Calàbria 08015,2,0,0,0
+429,1590000918,Superficie,75 Carrer de València 08015,2,0,0,0
+430,1590000518,Superficie,95 Gran Via de Carles III 08028,2,0,0,0
+431,1583002218,Superficie,23 Travessera de Gràcia 08021,2,0,0,0
+432,1583002018,Superficie,9 Avinguda de la Catedral,2,0,0,0
+433,1583001918,Superficie,9 Avinguda de la Catedral,2,0,0,0
+434,1583001618,Superficie,74 Carrer del Moianès 08014,2,0,0,0
+435,1583001318,Superficie,174 Carrer de Pau Claris 08037,2,0,0,0
+436,1583001218,Superficie,1 Carrer de l'Abat Safont 08001,2,0,0,0
+437,1583001118,Superficie,85.B Gran Via de Carles III 08028,2,0,0,0
+438,1583000918,Superficie,43 Travessera de Gràcia 08021,2,0,0,0
+439,1583000218,Superficie,8 Carrer del Comte d'Urgell 08011,2,0,0,0
+440,1583000118,Superficie,23 Plaça del Sol 08012,2,0,0,0
+441,BARCPLAZAURQUINAONABAMSA07,Superficie,42 Carrer de Casp 08010,2,0,0,0
+442,BARCPLAZAURQUINAONABAMSA08,Superficie,42 Carrer de Casp 08010,2,0,0,0
+443,BCPETROMIRALLESPORT,Superficie,9 Ml Inflamables 08040,0,0,2,0
+444,Endesa X HPC CPO - McDonalds - Polígon Can Massaguer Nord,Superficie,0F Poligono Can Massaguer Nord 08430,0,0,2,0
+445,BCTRANSGOURMETGMCASTELLBISBAL02,Superficie,118 Carrer Potassi 08740,0,0,2,0
+446,1591001418,Superficie,46 Avinguda de Josep Tarradellas 08029,2,0,0,0
+447,Telpark - Sala,Parking,300 Carrer de Galileu 08028,2,0,0,0
+448,BCSABAJOANGUELL23,Superficie,611 Avinguda Diagonal 08028,2,0,0,0
+449,BCSABATRAVESSERA17-21C10,Superficie,23 Travessera de Gràcia 08021,2,0,0,0
+450,BCSABAPAUCLARISPLZ309-310,Superficie,174 Carrer de Pau Claris 08037,2,0,0,0
+451,BCSABATRAVESSERA43C5,Superficie,43B Travessera de Gràcia 08021,2,0,0,0
+452,BAVINCCIVIT02,Superficie,440 Carrer de Pallars 08019,2,0,0,0
+453,BAVINCCIVIT01,Superficie,438 Carrer de Pallars 08019,2,0,0,0
+454,"Endesa CPO SABA Hospital Sant Pau - Carrer del Mas Casanovas, 74, 08041 Barcelona, Spain",Superficie,74 Carrer del Mas Casanovas 08041,2,0,0,0
+455,"Endesa CPO SABA Hospital Sant Pau - Carrer del Mas Casanovas, 74, 08041 Barcelona, Spain",Superficie,74 Carrer del Mas Casanovas 08041,2,0,0,0
+456,BCSABAPAUCASALSPLZ1001,Superficie,16 Avinguda de Pau Casals 08021,2,0,0,0
+457,BCSABACARLESIII01,Superficie,95 Gran Via de Carles III 08028,2,0,0,0
+458,BCSABASIRACUSA01,Superficie,43 Carrer de Siracusa 08012,2,0,0,0
+459,12011010190004,Superficie,1S Passeig de Lluís Companys 08003,2,0,0,0
+460,12011010190003,Superficie,1S Passeig de Lluís Companys 08003,2,0,0,0
+461,12011010190002,Superficie,1S Passeig de Lluís Companys 08003,2,0,0,0
+462,12011010190001,Superficie,1S Passeig de Lluís Companys 08003,2,0,0,0
+463,12008000990009,Superficie,15 Carrer de Sant Rafael 08001,2,0,0,0
+464,12008000990008,Superficie,2 Plaça de Gal·la Placídia 08006,2,0,0,0
+465,BMSIRACUSA01,Superficie,43 Carrer de Siracusa 08012,2,0,0,0
+466,12008000990006,Superficie,93 Avinguda de Josep Tarradellas 08029,2,0,0,0
+467,12008000990005,Superficie,2 Plaça de Gal·la Placídia 08006,2,0,0,0
+468,12008000990004,Superficie,15.B Rambla del Raval 08001,2,0,0,0
+469,BCSABACATEDRALPLZ1016-1015,Superficie,8S Avinguda de la Catedral 08002,2,0,0,0
+470,BCSABACATEDRALPLZ1014-1013,Superficie,6 Avinguda de la Catedral 08002,2,0,0,0
+471,BCALCOTASHOTELESCASPE01,Superficie,111 Carrer de Casp 08013,2,0,0,0
+472,BBMDIPUTACIO01,Superficie,286 Carrer de la Diputació 08009,2,0,0,0
+473,1583002118,Superficie,23 Travessera de Gràcia 08021,2,0,0,0
+474,BCSABAAPARCAMIENTOPLAZACATALUNA05,Superficie,23 Plaça de Catalunya 08002,2,0,0,0
+475,BCSABAAPARCAMIENTOPLAZACATALUNA07,Superficie,21 Carrer de Rivadeneyra 08002,2,0,0,0
+476,BCSABAAPARCAMIENTOPLAZACATALUNA08,Superficie,23 Plaça de Catalunya 08002,2,0,0,0
+477,BASABADIPUTACIO04,Superficie,286 Carrer de la Diputació 08009,2,0,0,0
+478,BCSABATRAVESSERADEGRACIA17-2104,Superficie,23 Travessera de Gràcia 08021,2,0,0,0
+479,BASABADIPUTACIO03,Superficie,286 Carrer de la Diputació 08009,2,0,0,0
+480,12113010520008,Superficie,22 Avinguda de Josep Tarradellas 08029,2,0,0,0
+481,BCFSTHOTELSSLAYREGRANVIA01,Superficie,320 Gran Via de les Corts Catalanes 08004,2,0,0,0
+482,BCPARKINGCONTINENTALNUMANCIA03,Superficie,13 Carrer de Numància 08029,2,0,0,0
+483,BCHOTELSILKENRAMBLAS02,Superficie,15 Carrer del Pintor Fortuny 08001,2,0,0,0
+484,BCHOTELSILKENRAMBLAS01,Superficie,15 Carrer del Pintor Fortuny 08001,2,0,0,0
+485,BCHOTELVINCCIMARITIMO02,Superficie,358 Carrer de Llull 08019,2,0,0,0
+486,BCPARKINGCONTINENTALNUMANCIA02,Superficie,13 Carrer de Numància 08029,2,0,0,0
+487,"Endesa CPO Fira de Barcelona Montjuic-Carrer de Lleida, 2, 8004, Barcelona, Barcelona, España",Superficie,10 Carrer de Lleida 08004,2,0,0,0
+488,BCPARKINGCONTINENTALNUMANCIA01,Superficie,13 Carrer de Numància 08029,2,0,0,0
+489,"Endesa CPO Fira de Barcelona Montjuic-Carrer de Lleida, 2, 8004, Barcelona, Barcelona, España",Superficie,10 Carrer de Lleida 08004,2,0,0,0
+490,61932036570002,Superficie,9 Carrer de Luis Antúnez 08006,2,0,0,0
+491,1740000118,Superficie,23 Plaça del Sol 08012,2,0,0,0
+492,1590000418,Superficie,1 Carrer de l'Abat Safont 08001,2,0,0,0
+493,1583001018,Superficie,43 Travessera de Gràcia 08021,2,0,0,0
+494,BCSABAAVDADIAGONAL611-615,Superficie,609 Avinguda Diagonal 08028,2,0,0,0
+495,BCSABACARLESIII03,Superficie,85.B Gran Via de Carles III 08028,2,0,0,0
+496,BCSABACARLESIII04,Superficie,85.B Gran Via de Carles III 08028,2,0,0,0
+497,BCSABACARLESIII05,Superficie,85.B Gran Via de Carles III 08028,2,0,0,0
+498,Interparking Hispania/6011,Superficie,Moll 18 A Barcelona 08039,2,0,0,0
+499,Atlante - Nieves Zona Franca,Superficie,13 Carrer B 08040,0,0,2,0
+500,Atlante - Nieves Zona Franca,Superficie,14 Carrer B 08040,0,0,2,0
+501,"Club Esportiu Laietà Barcelona, Carrer Pintor Ribalta 2",Superficie,1I Avinguda Doctor Marañón 08028,0,0,2,0
+502,TheF Charging Espana - Club Esportiu Laietà Barcel,Superficie,1I Avinguda Doctor Marañón 08028,0,0,2,0
+503,ATLANTE - Marina Vela Mirador,Superficie,80 Passeig de Joan de Borbó 08039,0,0,2,0
+504,ATLANTE - Marina Vela Mirador,Superficie,80 Passeig de Joan de Borbó 08039,0,0,2,0
+505,L'illa Diagonal - AC 1,Superficie,Carrer del Prat d'en Rull 08029,2,0,0,0
+506,L'illa Diagonal - AC 4,Superficie,Carrer del Prat d'en Rull 08029,2,0,0,0
+507,H10 ITACA,Hotel,22 Avinguda de Roma 08015,2,0,0,0
+508,Derecha - ACCIONA - ANTIGA MASÍA - CCS,Superficie,1 Carrer de la Masia 08711,0,0,2,0
+509,Derby Hotel,Hotel,25 Carrer de Loreto 08029,2,0,0,0
+510,Quadis Moto Store,Taller,70 Carrer de Numància 08029,2,0,0,0
+511,Hotel H10 Casanova,Hotel,559 Gran Via de les Corts Catalanes 08011,2,0,0,0
+512,Carrer 60,Superficie,21 Carrer 60 08040,2,0,0,0
+513,Bailen 93,Superficie,93 Calle de Bailén 08009,0,2,0,0
+514,Riera de Cassoles 61,Superficie,61 Avenida Princep D'Asturies 08012,0,2,0,0
+515,Riera de Cassoles 6,Superficie,2 Carrer dels Madrazo 08012,0,2,0,0
+516,"Rosa Sensat, 14",Superficie,147 Avinguda d'Icària 08005,0,2,0,0
+517,"Pascual i Vila, 23",Superficie,23-24 Carrer de Pascual i Vila 08028,0,2,0,0
+518,"Arquitecte Moragas, 31",Superficie,38 Avinguda de Can Marcet 08035,0,2,0,0
+519,"Cristobal de Moura, 24",Superficie,19 Carrer de Cristóbal de Moura 08019,0,2,0,0
+520,"Rbla. Prim, 19",Superficie,17X Avinguda Diagonal 08019,0,2,0,0
+521,"Av. Josep Tarradellas, 1",Superficie,4 Avinguda de Josep Tarradellas 08029,0,2,0,0
+522,"Fígols, 6",Superficie,11 Plaça del Sol de Baix 08028,0,2,0,0
+523,"Pl. Dr. Letamendi, 30-33",Superficie,33 Plaça del Doctor Letamendi 08007,0,2,0,0
+524,"Pg. Salvat Papasseit, 3",Superficie,10 Passeig de Salvat Papasseit 08003,0,2,0,0
+525,"Pla de Palau, 19",Superficie,9999 Plaça de Correus 08002,0,2,0,0
+526,República Dominicana,Superficie,54 Carrer de Ferran Junoy 08030,0,2,0,0
+527,"Rambla Badal, 167",Superficie,267 Carrer de Sants 08028,0,2,0,0
+528,"Lisboa, 9",Superficie,11 Carrer de Lisboa 08032,0,2,0,0
+529,"Garcilaso, 204",Superficie,204 Carrer de Garcilaso 08027,0,2,0,0
+530,"D'Osi, 4",Superficie,1 Carrer d'Osi 08034,0,2,0,0
+531,"Av. Vallcarca, 154",Superficie,150 Avinguda de Vallcarca 08023,0,2,0,0
+532,"Balmes, 422",Superficie,422 Carrer de Balmes 08022,0,2,0,0
+533,"Av. Sarrià, 126",Superficie,132 Avinguda de Sarrià 08017,0,2,0,0
+534,"Bruc, 84",Superficie,84 Carrer del Bruc 08009,0,2,0,0
+535,"Ctra. Del Prat, 42",Superficie,42 Carretera del Prat 08038,0,2,0,0
+536,"Llançà, 16",Superficie,16 Carrer de Llança 08015,0,2,0,0
+537,"Còrsega, 264",Superficie,262 Carrer de Còrsega 08008,0,2,0,0
+538,"Villarroel, 277",Superficie,271 Carrer de Villarroel 08036,0,2,0,0
+539,"Llacuna, 149",Superficie,147 Carrer de la Llacuna 08018,0,2,0,0
+540,"Via Favència, 169",Superficie,169 Via Favència 08042,0,2,0,0
+541,"Av. Pearson, 20",Superficie,20 Avinguda de Pearson 08034,0,2,0,0
+542,"Indústria, 19",Superficie,15 Carrer de la Indústria 08037,0,2,0,0
+543,Mercadona Carrer Andrade,Centro comercial,256 Carrer de Lope de Vega 08018,2,0,0,0
+544,H10 MARINA BARCELONA,Hotel,64-68 Avinguda del Bogatell 08005,2,0,0,0
+545,Parking indigo Piscinas y Deportes,Superficie,29 Carrer de Ganduxer 08021,2,0,0,0
+546,Parking indigo Plaa Wagner,Superficie,7 Plaça de Wagner 08021,2,0,0,0
+547,Parking indigo Mata (Tres Chimeneas),Superficie,36 Carrer de Vila i Vilà 08004,2,0,0,0
+548,Parking indigo Mercat Merce,Superficie,276 Passeig de Fabra i Puig 08031,2,0,0,0
+549,Parking indigo Can Fabra,Superficie,9999 Plaça de Ramon Riera 08030,2,0,0,0
+550,Marina Village 1,Superficie,6 Carrer de Ramon Trias Fargas 08005,2,0,0,0
+551,Marina Village 2,Superficie,6 Carrer de Ramon Trias Fargas 08005,2,0,0,0
+552,APK2 Centric BCN 1,Superficie,65 Rambla de Catalunya 08007,2,0,0,0
+553,Parking indigo Plaa Wagner,Superficie,1 Plaça de Wagner 08021,2,0,0,0
+554,Parking indigo Mata (Tres Chimeneas),Superficie,36 Carrer de Vila i Vilà 08004,2,0,0,0
+555,Parking indigo Can Fabra,Superficie,20 Carrer del Doctor Balari i Jovany 08030,2,0,0,0
+556,Parking indigo Mercat Merce,Superficie,276 Passeig de Fabra i Puig 08031,2,0,0,0
+557,Parking indigo Piscinas y Deportes,Superficie,29 Carrer de Ganduxer 08021,2,0,0,0
+558,Aena Terminal T2 Express Parking,Aeropuerto,18 C-32B 08820,2,0,0,0
+559,Vall Parc: Club de tenis i de pàdel a Barcelona,Parking,125I Carretera de l' Arrabassada 08035,2,0,0,0
+560,Garaje Park,Parking,1 Carrer del Tenor Viñas 08021,2,0,0,0
+561,Parking Chile Barcelona,Parking,308 Carrer del Rosselló 08037,2,0,0,0
+562,Carrer de la Diputació 244,Superficie,244 Carrer de la Diputació 08007,2,0,0,0
+563,Garaje Auriga,Parking,213 Carrer de Còrsega 08036,2,0,0,0
+564,Cargador Aparcaments,Parking,19 Carrer de Sant Quintí 08026,2,0,0,0
+565,Circutor Barcelona,Superficie,12 Carretera Circumvaŀlació Tram 5 08039,2,0,0,0
+566,Mercadona Viladomat,Parking,277 277 08029,2,0,0,0
+567,Cargador PG toma,Parking,87 Passeig de Gràcia 08008,2,0,0,0
+568,MAKRO-Barcelona-02,Superficie,49 Carrer Lletra A de la Zona Franca 08040,2,0,0,0
+569,MAKRO-Barcelona-03,Superficie,49 Carrer Lletra A de la Zona Franca 08040,2,0,0,0
+570,MAKRO-Barcelona-04,Superficie,49 Carrer Lletra A de la Zona Franca 08040,2,0,0,0
+571,Sector 6 Àlvarez de la Campa,Superficie,5 Ml Alvarez de la Campa 08039,2,0,0,0
+572,Factor Energía - RC POLO BCN - Caballerizas,Superficie,8 Carrer del General Batet 08028,2,0,0,0
+573,Hotel Front Marítim,Hotel,69 Passeig de Garcia Fària 08019,2,0,0,0
+574,Nissan Sants-Montjuïc,Superficie,65 Passeig de la Zona Franca 08038,0,0,1,1
+575,Mercadona Avinguda de Rio de Janeiro,Tienda,82 Avinguda de Rio de Janeiro 08016,2,0,0,0
+576,Parking Odiseus,Parking,56 56 08006,2,0,0,0
+577,undefined,Superficie,244 Carrer de la Diputació 08007,2,0,0,0
+578,Mercadona Sardenya 229,Tienda,231 Carrer de Sardenya 08013,2,0,0,0
+579,Allego/ESALLEGO000011,Superficie,51 Carrer de la Ciutat d'Asuncion 08030,0,0,1,1
+580,Allego/ESALLEGO000013,Superficie,379 Carrer de Pere IV 08020,0,0,1,1
+581,HOTEL CATALONIA RAMBLAS,Hotel,30 Carrer de Pelai 08001,2,0,0,0
+582,Hotel Catalonia Barcelona 505,Hotel,503 Carrer de Muntaner 08022,2,0,0,0
+583,Parking Provença 228 - Promoparc,Parking,230 Carrer de Provença 08036,2,0,0,0
+584,Anpora Parking Roger de Flor,Parking,148 Carrer de Roger de Flor 08013,2,0,0,0
+585,Interior Concesionario Letamendi,Superficie,177 Carrer de València 08011,1,0,1,0
+586,Nissan San Andrés de Palomar,Superficie,51 Carrer de la Ciutat d'Asuncion 08030,0,0,1,1
+587,Parking NN Urgell,Parking,230 Carrer del Comte d'Urgell 08036,2,0,0,0
+588,Bailen 93,Superficie,93 Carrer de Bailèn 08009,0,2,0,0
+589,Pg. Joan de Borbó 68,Superficie,69 Passeig de Joan de Borbó 08003,0,2,0,0
+590,Riera de Cassoles 6,Superficie,2 Carrer dels Madrazo 08012,0,2,0,0
+591,Riera de Cassoles 61,Superficie,60 Avinguda de la Riera de Cassoles 08012,0,2,0,0
+592,Pintor Tapiró 2-6,Superficie,5 Carrer del Pintor Tapiró 08028,0,2,0,0
+593,"Lope de Vega, 158-160",Superficie,492 Carrer de Lope de Vega 08005,0,2,0,0
+594,"Rosa Sensat, 14",Superficie,11 Carrer de Rosa Sensat 08005,0,2,0,0
+595,"Arquitecte Moragas, 31",Superficie,38 Avinguda de Can Marcet 08035,0,2,0,0
+596,"Av. Josep Vicenç Foix, 86 Bis",Superficie,86 Avinguda de Josep Vicenç Foix 08034,0,2,0,0
+597,"Av. Esplugues, 52",Superficie,10 Carrer d'Eduard Toldrà 08034,0,2,0,0
+598,"Ciutat de Granada, 11",Superficie,8 Passatge de Mas de Roda 08005,0,2,0,0
+599,"Rbla. Guipúscoa, 103",Superficie,103 Rambla de Guipúscoa 08020,0,2,0,0
+600,"Rbla. Prim, 19",Superficie,17X Avinguda Diagonal 08019,0,2,0,0
+601,"Cristobal de Moura, 24",Superficie,21 Carrer de Cristóbal de Moura 08019,0,2,0,0
+602,"Fígols, 6",Superficie,11 Plaça del Sol de Baix 08028,0,2,0,0
+603,"Av. Josep Tarradellas, 1",Superficie,1 Avinguda de Josep Tarradellas 08029,0,2,0,0
+604,"Pl. Dr. Letamendi, 30-33",Superficie,33 Plaça del Doctor Letamendi 08007,0,2,0,0
+605,"Ausiàs March, 131",Superficie,114 Carrer d'Ausiàs Marc 08013,0,2,0,0
+606,"Pg. Salvat Papasseit, 3",Superficie,10 Passeig de Salvat Papasseit 08003,0,2,0,0
+607,"Via Laietana, 1",Superficie,9999 Plaça d'Antonio López 08002,0,2,0,0
+608,c/ Europa 38,Superficie,38 Carrer d'Europa 08014,0,2,0,0
+609,"Llull, 285",Superficie,288 Carrer de Llull 08019,0,2,0,0
+610,República Dominicana,Superficie,54 Carrer de Ferran Junoy 08030,0,2,0,0
+611,"Lisboa, 9",Superficie,11 Carrer de Lisboa 08032,0,2,0,0
+612,"Rambla Badal, 167",Superficie,267 Carrer de Sants 08028,0,2,0,0
+613,"Pl. Maragall, 21",Superficie,21 Plaça de Maragall 08027,0,2,0,0
+614,"Garcilaso, 204",Superficie,204 Carrer de Garcilaso 08027,0,2,0,0
+615,"Av. Vallcarca, 154",Superficie,150 Avinguda de Vallcarca 08023,0,2,0,0
+616,"D'Osi, 4",Superficie,1 Carrer d'Osi 08034,0,2,0,0
+617,"Av.Sarrià, 126",Superficie,132 Avinguda de Sarrià 08017,0,2,0,0
+618,"Balmes, 422",Superficie,422 Carrer de Balmes 08022,0,2,0,0
+619,"Ctra. Del Prat, 42",Superficie,42 Carretera del Prat 08038,0,2,0,0
+620,"Bruc, 84",Superficie,84 Carrer del Bruc 08009,0,2,0,0
+621,"Fontanella, 1",Superficie,1 Carrer de Fontanella 08010,0,2,0,0
+622,"Còrsega, 264",Superficie,262 Carrer de Còrsega 08008,0,2,0,0
+623,"Llançà, 16",Superficie,16 Carrer de Llança 08015,0,2,0,0
+624,"Villarroel, 277",Superficie,271 Carrer de Villarroel 08036,0,2,0,0
+625,"Torras i Bages, 11",Superficie,11 Passeig de Torras i Bages 08030,0,2,0,0
+626,"Llacuna, 149",Superficie,147 Carrer de la Llacuna 08018,0,2,0,0
+627,"Av. Pearson, 20",Superficie,20 Avinguda de Pearson 08034,0,2,0,0
+628,"Via Favència, 169",Superficie,169 Via Favència 08042,0,2,0,0
+629,"Indústria, 19",Superficie,15 Carrer de la Indústria 08037,0,2,0,0
+630,HOTEL CATALONIA MIKADO,Hotel,2 Carrer d'Iradier 08017,2,0,0,0
+631,Mercadona Trav Les Corts,Tienda,142 Travessera de les Corts 08028,2,0,0,0
+632,APK2 Travessera 53 - Barcelona 1,Superficie,55 Travessera de Gràcia 08006,2,0,0,0
+633,APK2 Plaza del Mar,Superficie,76 Passeig de Joan de Borbó 08003,2,0,0,0
+634,"Supercharger Barcelona - L'Illa Diagonal, Spain",Centro comercial,583 Avinguda Diagonal 08017,0,0,0,0
+635,Parkmestres Parking,Parking,208 Carrer de París 08008,2,0,0,0
+636,Carrer de la Diputació 244,Superficie,244 Carrer de la Diputació 08007,2,0,0,0
+637,Mercadona calle Perú - Barcelona,Tienda,157 Carrer del Perú 08018,2,0,0,0
+638,Hotel Ohla Eixample,Hotel,291 Carrer de Còrsega 08008,2,0,0,0
+639,Hotel Olivia Balmes,Hotel,250 Carrer de Provença 08008,2,0,0,0
+640,Hotel Gallery Barcelona,Hotel,251 Carrer del Rosselló 08008,2,0,0,0
+641,Porsche Destination Charging - Hotel W Barcelona,Hotel,Passeig del Mare Nostrum,1,0,0,0
+642,Parking David 02,Superficie,25 Carrer de Tuset 08006,2,0,0,0
+643,Parking David 03,Superficie,60 Travessera de Gràcia 08006,2,0,0,0
+644,Parking David 04,Superficie,60 Travessera de Gràcia 08006,2,0,0,0
+645,Feníe Energía/0438,Superficie,181 Carrer de Còrsega 08036,2,0,0,0
+646,Mercadona Duero,Tienda,19 Carrer del Duero 08031,2,0,0,0
+647,Hotel Alimara,Hotel,126 carrer de Berruguete 08035,2,0,0,0
+648,parking ortigosa,Parking,23 Carrer d'Amadeu Vives 08003,2,0,0,0
+649,"Parking Massens - carrer Massens, 73",Parking,73 Carrer de Massens 08024,2,0,0,0
+650,Zeromotorcycles BCN,Concesionario,216 Carrer de Còrsega 08036,1,1,0,0
+651,ACTA VORAPORT,Hotel,35X Carrer de la Llacuna 08005,2,0,0,0
+652,La Maquinista Motos,Centro comercial,16I Carrer de Ferran Junoy 08030,0,2,0,0
+653,Aldi Numancia 88,Tienda,90 Carrer de Numància 08029,2,0,0,0
+654,Mercadona Bonaventura Muñoz,Tienda,37 Carrer de Buenaventura Muñoz 08018,2,0,0,0
+655,El Corte Inglés Can Dragó,Centro comercial,48 Passeig d'Andreu Nin 08016,2,0,0,0
+656,AUDI zona franca,Concesionario,61 Carrer A 08040,1,0,1,0
+657,Mercadona Calle Aneto,Tienda,3 Carrer d'Inca 08031,2,0,0,0
+658,HOTEL BARCELONA 1882,Hotel,509 Carrer de Còrsega 08025,2,0,0,0
+659,Mercadona Magòria-La Campana,Tienda,187 Gran Via de les Corts Catalanes 08014,2,0,0,0
+660,1583001418,Superficie,158 Carrer de Pau Claris 08009,2,0,0,0
+661,1591001018,Superficie,19 Carrer d'Escuder 08003,2,0,0,0
+662,Mercadona - C. Veneçuela - Sant Martí,Centro comercial,96 Carrer de Puigcerdà 08019,2,0,0,0
+663,Parking Rius,Parking,480 Carrer de València 08013,2,0,0,0
+664,Hotel Catalonia Diagonal Centro,Hotel,142 Carrer de Balmes 08008,1,0,0,0
+665,St Cugat - Av. Generalitat 204,Superficie,204 Avinguda de la Generalitat 08174,2,0,0,0
+666,ilunion les corts spa,Parking,11Bis Carrer del Cardenal Reig 08028,1,0,0,0
+667,Parking Sicilia,Parking,259 Carrer de Sicília 08025,1,1,0,0
+668,Aparthotel Silver,Hotel,28 Carrer de Bretón de los Herreros 08012,1,1,0,0
+669,Hotel Crowne Plaza,Hotel,1 Avinguda de Rius i Taulet 08004,0,0,0,0
+670,Barna parking,Parking,231 Carrer del Rosselló 08008,2,0,0,0
+671,Parking Galvany,Parking,36 Carrer de Calaf 08021,2,0,0,0
+672,Parking Mallorca 272,Parking,272 Carrer de Mallorca 08037,1,1,0,0
+673,Parking Clot saba,Parking,1-103 Carrer Marconi 08018,0,2,0,0
+674,SABA,Superficie,28 Avinguda Parc Logístic 08040,0,2,0,0
+675,Hotel Miramar Barcelona (Tesla DC),Hotel,15 Carretera Antiga de Montjuïc 08038,1,0,0,0
+676,Catalunya wagen,Concesionario,61 Carrer Lletra A de la Zona Franca 08040,2,0,0,0
+677,Cementirio Sant Andreu,Superficie,28 Carrer dels Garrofers 08016,1,1,0,0
+678,Garaje Atarazanas,Parking,7 Carrer del Portal de Santa Madrona 08001,2,0,0,0
+679,Parking Nh Sants - Promoparc,Parking,72 Carrer de Numància 08029,0,2,0,0
+680,Campus Universitat Politécnica de Catalunya,Parking,37 Carrer de Sor Eulàlia d'Anzizu 08034,0,2,0,0
+681,EL NOU RAVAL SL,Parking,124 Carrer de l'Hospital 08001,0,2,0,0
+682,Hotel Pullman Barcelona Skipper,Hotel,8 Avinguda del Litoral 08005,0,2,0,0
+683,BARFIRAHOSPITALETPABELLO8_01,Superficie,81 Carrer de l'Urani 08038,1,0,0,0
+684,"Endesa CPO Av. Joan Carles I, 64, 08908 L'Hospitalet de Llobregat, Barcelona, Spain",Superficie,81 Carrer de l'Urani 08038,1,0,0,0
+685,SABAPAUCASALS,Superficie,16 Avinguda de Pau Casals 08150,1,0,0,0
+686,Bluespace - Rambla Guipuzcoa,Parking,159 Carrer de Guipúscoa 08020,0,0,1,0
+687,BonArea,Superficie,545 A-2 08719,0,0,1,0
+688,Parking BARICENTRO P4,Superficie,km 6 N-150 08210,0,0,0,1
+689,Fundacion Ampans,Hotel,2 Carrer Major del Rectoret 08017,1,0,0,0
+690,NH Collection Barcelona Pódium,Superficie,8 Carrer de Bailèn 08010,1,0,0,0
+691,MOEVE-ES113690-PARIS URGEL,Superficie,219 Carrer del Comte d'Urgell 08036,0,0,1,0
+692,MOEVE-ES113690-PARIS URGEL,Superficie,219 Carrer del Comte d'Urgell 08036,0,0,1,0
+693,Parking público Mallorca 307,Parking,07311 Carrer de Mallorca 08037,1,0,0,0
+694,Jordi Test Location,Parking,60 Carrer d'Olesa 08027,1,0,0,0
+695,Hotel Best Western Dante,Hotel,181 Carrer de Mallorca 08036,1,0,0,0
+696,Condis Horta-Guinardó,Tienda,417 Passeig Maragall 08032,1,0,0,0
+697,Parking Roma 2000,Parking,7B Carrer de València 08015,1,0,0,0
+698,BARCCARRERDELMASCASANOVASABA02,Superficie,65 Carrer del Mas Casanovas 08041,1,0,0,0
+699,BARCCARRERDELMASCASANOVASABA01,Superficie,82 Carrer del Mas Casanovas 08041,1,0,0,0
+700,BARCCARRERDELMASCASANOVASABA04,Superficie,82 Carrer del Mas Casanovas 08041,1,0,0,0
+701,BARCCARRERDELMASCASANOVASABA03,Superficie,82 Carrer del Mas Casanovas 08041,1,0,0,0
+702,Endesa CPO - C/ de Joan Güell,Superficie,611 Avinguda Diagonal 08028,1,0,0,0
+703,Endesa CPO - C/ de Joan Güell,Superficie,607B Avinguda Diagonal 08028,1,0,0,0
+704,Endesa CPO - C/ de Joan Güell,Superficie,607B Avinguda Diagonal 08028,1,0,0,0
+705,Endesa CPO - C/ de Joan Güell,Superficie,607B Avinguda Diagonal 08028,1,0,0,0
+706,Endesa CPO - C/ de Joan Güell,Superficie,607B Avinguda Diagonal 08028,1,0,0,0
+707,Endesa CPO - C/ de Joan Güell,Superficie,611 Avinguda Diagonal 08028,1,0,0,0
+708,Endesa CPO - C/ de Joan Güell,Superficie,607B Avinguda Diagonal 08028,1,0,0,0
+709,Endesa CPO - C/ de Joan Güell,Superficie,611 Avinguda Diagonal 08028,1,0,0,0
+710,Endesa CPO - C/ de Joan Güell,Superficie,611 Avinguda Diagonal 08028,1,0,0,0
+711,Endesa CPO - C/ de Joan Güell,Superficie,611 Avinguda Diagonal 08028,1,0,0,0
+712,"Endesa CPO SABA - Pg. de Gràcia, 33, L'Eixample, 08007 Barcelona, Spain",Superficie,33 Passeig de Gràcia 08007,1,0,0,0
+713,Endesa CPO - SABA - Travessera de Gràcia,Superficie,45 Travessera de Gràcia 08021,1,0,0,0
+714,"Endesa CPO SABA - Pg. de Gràcia, 33, L'Eixample, 08007 Barcelona, Spain",Superficie,33 Passeig de Gràcia 08007,1,0,0,0
+715,BCNPASSEIGDEGRACIA03,Superficie,84 Passeig de Gràcia 08008,1,0,0,0
+716,BCNPASSEIGDEGRACIA04,Superficie,84 Passeig de Gràcia 08008,1,0,0,0
+717,BCNPASSEIGDEGRACIA02,Superficie,84 Passeig de Gràcia 08008,1,0,0,0
+718,BCNPASSEIGDEGRACIA01,Superficie,90 Passeig de Gràcia 08008,1,0,0,0
+719,BARCCARRERDELMASCASANOVASABA10,Superficie,65 Carrer del Mas Casanovas 08041,1,0,0,0
+720,BARCCARRERDELMASCASANOVASABA08,Superficie,65 Carrer del Mas Casanovas 08041,1,0,0,0
+721,BARCCARRERDELMASCASANOVASABA07,Superficie,65 Carrer del Mas Casanovas 08041,1,0,0,0
+722,BARCCARRERDELMASCASANOVASABA09,Superficie,65 Carrer del Mas Casanovas 08041,1,0,0,0
+723,BCBARCELOOCCIDENTALATENEAMAR01,Superficie,37 Passeig de Garcia Fària 08019,1,0,0,0
+724,BCBARCELOOCCIDENTALATENEAMAR03,Superficie,37 Passeig de Garcia Fària 08019,1,0,0,0
+725,BCBARCELOOCCIDENTALATENEAMAR04,Superficie,37 Passeig de Garcia Fària 08019,1,0,0,0
+726,Endesa CPO - ANPORA AUGUSTA - Via Augusta,Superficie,35 Carrer de Brusi 08006,1,0,0,0
+727,BPARKIACORACHAN01,Superficie,5 Plaça de Manuel Corachán 08017,1,0,0,0
+728,BPARKIACORACHAN02,Superficie,5 Plaça de Manuel Corachán 08017,1,0,0,0
+729,BPARKIAMARAGALL01,Superficie,50 Passeig Maragall 08041,1,0,0,0
+730,BPARKIABORN01,Superficie,4 Plaça Comercial 08003,1,0,0,0
+731,BPARKIAMARAGALL02,Superficie,52 Passeig Maragall 08041,1,0,0,0
+732,BPARKIABORN2,Superficie,2 Plaça Comercial 08003,1,0,0,0
+733,Endesa CPO - Avinguda Diagonal,Superficie,595 Avinguda Diagonal 08014,1,0,0,0
+734,Endesa CPO - Via Augusta,Superficie,353 Via Augusta 08017,1,0,0,0
+735,Endesa CPO - Avinguda Diagonal,Superficie,595 Avinguda Diagonal 08014,1,0,0,0
+736,Endesa CPO - Via Augusta,Superficie,353 Via Augusta 08017,1,0,0,0
+737,Endesa CPO - Via Augusta,Superficie,353 Via Augusta 08017,1,0,0,0
+738,Endesa CPO - Via Augusta,Superficie,353 Via Augusta 08017,1,0,0,0
+739,Endesa CPO - JOSEL CORSEGA - C. de Còrsega,Superficie,345 Carrer de Còrsega 08037,1,0,0,0
+740,Endesa CPO - JOSEL CORSEGA - C. de Còrsega,Superficie,344 Carrer de Còrsega 08037,1,0,0,0
+741,Endesa CPO - JOSEL CORSEGA - C. de Còrsega,Superficie,344 Carrer de Còrsega 08037,1,0,0,0
+742,Endesa CPO - JOSEL CORSEGA - C. de Còrsega,Superficie,344 Carrer de Còrsega 08037,1,0,0,0
+743,Endesa CPO - JOSEL CORSEGA - C. de Còrsega,Superficie,346 Carrer de Còrsega 08037,1,0,0,0
+744,Endesa CPO - JOSEL CORSEGA - C. de Còrsega,Superficie,344 Carrer de Còrsega 08037,1,0,0,0
+745,BARMARRIOTFORUM04,Superficie,278 Passeig del Taulat 08019,1,0,0,0
+746,BARCPARKINGFIRAGRANVIABARCELONA08,Superficie,31 Carrer del Foc 08038,1,0,0,0
+747,BARCPARKINGFIRAGRANVIABARCELONA07,Superficie,31 Carrer del Foc 08038,1,0,0,0
+748,BARCPARKINGFIRAGRANVIABARCELONA06,Superficie,31 Carrer del Foc 08038,1,0,0,0
+749,BARCPARKINGFIRAGRANVIABARCELONA05,Superficie,31 Carrer del Foc 08038,1,0,0,0
+750,BARMARRIOTFORUM03,Superficie,278 Passeig del Taulat 08019,1,0,0,0
+751,BARMARRIOTFORUM02,Superficie,278 Passeig del Taulat 08019,1,0,0,0
+752,BARMARRIOTFORUM01,Superficie,278 Passeig del Taulat 08019,1,0,0,0
+753,BARCPARKINGFIRAGRANVIABARCELONA03,Superficie,31 Carrer del Foc 08038,1,0,0,0
+754,BARCPARKINGFIRAGRANVIABARCELONA02,Superficie,31 Carrer del Foc 08038,1,0,0,0
+755,BARCPARKINGFIRAGRANVIABARCELONA01,Superficie,31 Carrer del Foc 08038,1,0,0,0
+756,Endesa CPO - Carrer de la Ciutat d'Asuncion,Superficie,36 Carrer de la Ciutat d'Asuncion 08030,0,0,0,0
+757,"Endesa CPO Fira Pabellon 8, 08908 L'Hospitalet de Llobregat, Barcelona, Spain",Superficie,18U Carrer dels Alts Forns 08038,1,0,0,0
+758,"Endesa CPO Fira Pabellon 8, 08908 L'Hospitalet de Llobregat, Barcelona, Spain",Superficie,32 Carrer dels Alts Forns 08038,1,0,0,0
+759,BARFIRAHOSPITALETPABELLO8_01,Superficie,32 Carrer dels Alts Forns 08038,1,0,0,0
